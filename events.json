@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:57:12.914Z",
+  "generatedAt": "2026-10-05T13:08:19.455Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 20,
-  "performanceCount": 66,
+  "showCount": 22,
+  "performanceCount": 78,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -36,6 +36,18 @@
           "sourceUrl": "https://israelshowru.kassa.co.il/announce/86668",
           "originalTitle": "Апчхи! — Театр Давай",
           "id": "kassa-detail-42448f2aaae7a76b50ad",
+          "recommendedAge": "3-7"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "11:00",
+          "startsAt": "2026-11-21T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/209796",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86668",
+          "originalTitle": "Апчхи! — Театр Давай",
+          "id": "kassa-detail-01dd180462cdbff99853",
           "recommendedAge": "3-7"
         }
       ]
@@ -56,6 +68,18 @@
           "sourceUrl": "https://israelshowru.kassa.co.il/announce/87475",
           "originalTitle": "Где же Гого? — Театр Рути Тамир",
           "id": "kassa-detail-457bc4880718764e4e48",
+          "recommendedAge": "4-9"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "11:00",
+          "startsAt": "2026-11-14T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213253",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87475",
+          "originalTitle": "Где же Гого? — Театр Рути Тамир",
+          "id": "kassa-detail-34380e8e36fc88422940",
           "recommendedAge": "4-9"
         }
       ]
@@ -677,6 +701,149 @@
       ]
     },
     {
+      "name": "Солнечная История — Театр Давай",
+      "location": [
+        "2026-11-04 in Ганей Тиква",
+        "2026-11-07 in Ришон ле-Цион",
+        "2026-11-25 in Ашдод",
+        "2027-01-23 in Тель-Авив-Яффо",
+        "2027-03-27 in Тель-Авив-Яффо"
+      ],
+      "performances": [
+        {
+          "date": "2026-11-04",
+          "time": "17:30",
+          "startsAt": "2026-11-04T17:30+02:00",
+          "city": "Ганей Тиква",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211706",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
+          "originalTitle": "Солнечная История — Театр Давай",
+          "id": "kassa-detail-6451b39b0f6379667b85",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:30",
+          "startsAt": "2026-11-07T11:30+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211521",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
+          "originalTitle": "Солнечная История — Театр Давай",
+          "id": "kassa-detail-8651bde0e02450e26651",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "17:30",
+          "startsAt": "2026-11-25T17:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211704",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
+          "originalTitle": "Солнечная История — Театр Давай",
+          "id": "kassa-detail-e955b63eb07aae66b8e6",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-01-23",
+          "time": "11:00",
+          "startsAt": "2027-01-23T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211543",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
+          "originalTitle": "Солнечная История — Театр Давай",
+          "id": "kassa-detail-ba4e7fd0d1cf82fd6f71",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-03-27",
+          "time": "11:00",
+          "startsAt": "2027-03-27T11:00+03:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213238",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
+          "originalTitle": "Солнечная История — Театр Давай",
+          "id": "kassa-detail-f2d8321e50d513c6b5e3",
+          "recommendedAge": "3+"
+        }
+      ]
+    },
+    {
+      "name": "Три Кота — Новый Спектакль — Карта сокровищ",
+      "location": [
+        "2026-12-17 in Ашдод",
+        "2026-12-19 in Ришон ле-Цион",
+        "2026-12-20 in Нетания",
+        "2026-12-23 in Петах-Тиква"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-17",
+          "time": "18:00",
+          "startsAt": "2026-12-17T18:00+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203221",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
+          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
+          "id": "kassa-detail-af4b0021d82562e430bb",
+          "recommendedAge": "2-11"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "10:30",
+          "startsAt": "2026-12-19T10:30+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203222",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
+          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
+          "id": "kassa-detail-45035e8b91c0234c3deb",
+          "recommendedAge": "2-11"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "12:30",
+          "startsAt": "2026-12-19T12:30+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203758",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
+          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
+          "id": "kassa-detail-8585d6dd3dc4c578ec41",
+          "recommendedAge": "2-11"
+        },
+        {
+          "date": "2026-12-20",
+          "time": "18:00",
+          "startsAt": "2026-12-20T18:00+02:00",
+          "city": "Нетания",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203214",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
+          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
+          "id": "kassa-detail-3ba38c56018d61c1890d",
+          "recommendedAge": "2-11"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "18:00",
+          "startsAt": "2026-12-23T18:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203224",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
+          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
+          "id": "kassa-detail-30474b39338a6a76b188",
+          "recommendedAge": "2-11"
+        }
+      ]
+    },
+    {
       "name": "Тюлька",
       "location": [
         "2026-10-09 in Petah Tikva",
@@ -1008,7 +1175,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 3,
+        "linkCount": 7,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1207,15 +1374,8 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "parsed",
-        "parserId": "rusevents",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 3,
-        "warnings": [
-          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
-        ]
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -1310,6 +1470,30 @@
         "linkCount": 0
       },
       {
+        "url": "https://ru.kupatbravo.co.il/list/section:41/?p=2",
+        "status": "parsed",
+        "parserId": "bravo",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 5,
+        "warnings": [
+          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/list/section:41/?p=3",
+        "status": "parsed",
+        "parserId": "bravo",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 4,
+        "warnings": [
+          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+        ]
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/announce/87000",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -1331,6 +1515,18 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/3cats2026",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 5,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -1523,9 +1719,39 @@
         "warnings": [
           "Excluded 2 events starting after 19:00 in Asia/Jerusalem."
         ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 5,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/86668",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87475",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 273,
+    "unsupportedPageCount": 270,
     "failedPages": [
       {
         "url": "https://afishamira.com/city/israel/",
@@ -1536,6 +1762,11 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
+      },
+      {
+        "url": "https://rusevents.com/israel/haifa/events/",
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
