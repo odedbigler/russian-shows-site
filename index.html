@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#216148">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="На сцену">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="./icon-192.png">
+  <title>На сцену · Детская афиша</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=Literata:wght@500;600&display=swap" rel="stylesheet">
+  <script defer src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
+  <style>
+    :root { --ink:#202c29; --muted:#67716d; --green:#216148; --line:#dde3df; --paper:#fafbf9; --accent:#e96d51; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink); font:14px/1.55 "Golos Text",sans-serif; letter-spacing:0; }
+    button,input,select { font:inherit; color:inherit; }
+    button,a,input,select,summary { -webkit-tap-highlight-color:transparent; }
+    :focus-visible { outline:3px solid #e96d51; outline-offset:4px; }
+    button { cursor:pointer; }
+    a { color:var(--green); text-underline-offset:3px; }
+    svg { width:18px; height:18px; flex:none; }
+    .wrap { max-width:1120px; margin:auto; padding:0 32px; }
+    nav { min-height:76px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
+    .brand { display:flex; align-items:center; gap:10px; font-weight:700; font-size:20px; }
+    .brand-mark { display:grid; place-items:center; background:var(--accent); color:white; width:36px; height:36px; border-radius:6px; }
+    .edition { color:var(--muted); font-size:12px; }
+    .masthead { position:relative; overflow:hidden; background:#163e31; color:white; }
+    .masthead img { position:absolute; width:100%; height:100%; object-fit:cover; object-position:center 44%; opacity:.27; }
+    .masthead .wrap { position:relative; padding-top:28px; padding-bottom:30px; }
+    .eyebrow { margin:0 0 5px; font-size:12px; color:#d6e7dc; }
+    h1 { font-family:"Literata",serif; font-size:36px; line-height:1.25; font-weight:500; margin:0 0 18px; }
+    .criteria { display:flex; flex-wrap:wrap; gap:10px 24px; font-size:12px; color:#eef3ee; }
+    .criteria span { display:flex; align-items:center; gap:7px; }
+    main { padding-top:26px !important; padding-bottom:64px !important; }
+    .filters { display:grid; grid-template-columns:minmax(180px,2fr) minmax(150px,1fr) minmax(160px,1fr); gap:16px; }
+    label { display:block; font-size:12px; font-weight:500; }
+    input,select { display:block; width:100%; height:44px; margin-top:7px; border:1px solid #cfd8d2; border-radius:5px; background:#fff; padding:0 12px; }
+    input::placeholder { color:#8a918d; }
+    input[type=search] { padding-left:39px; }
+    .search-field { position:relative; }
+    .search-field svg { position:absolute; top:13px; left:12px; color:var(--muted); }
+    .result-bar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; padding:26px 0 14px; border-bottom:1px solid var(--ink); }
+    #count { font-size:16px; font-weight:600; }
+    .last-update { margin:4px 0 0; color:var(--muted); font-size:12px; }
+    .actions { display:flex; align-items:center; gap:16px; }
+    .text-button { padding:0; border:0; background:transparent; color:var(--green); font-size:12px; text-decoration:underline; text-underline-offset:3px; }
+    .sort { display:flex; align-items:center; gap:7px; font-size:12px; }
+    .sort select { width:auto; max-width:170px; height:32px; margin:0; border:0; background:transparent; padding:0 3px; }
+    details.show { border-bottom:1px solid var(--line); }
+    summary { display:grid; grid-template-columns:64px minmax(0,1fr) 24px; gap:20px; align-items:center; padding:24px 0; cursor:pointer; list-style:none; }
+    summary::-webkit-details-marker { display:none; }
+    .date-tile { display:flex; flex-direction:column; align-items:center; justify-content:center; width:64px; height:70px; background:#eaf0eb; border-radius:5px; font-size:11px; color:var(--green); }
+    .date-tile strong { font-size:25px; line-height:1.15; font-weight:500; }
+    h2 { font-size:18px; line-height:1.4; font-weight:500; margin:0 0 8px; overflow-wrap:anywhere; }
+    .meta { display:flex; gap:6px 18px; flex-wrap:wrap; font-size:12px; color:var(--muted); }
+    .meta span { display:flex; align-items:center; gap:5px; }
+    .meta svg { width:14px; height:14px; }
+    .chevron { color:var(--muted); transition:transform .16s; }
+    details[open] .chevron { transform:rotate(180deg); }
+    .schedule { margin-left:84px; padding:0 0 22px; }
+    .schedule-row { display:grid; grid-template-columns:135px minmax(100px,1fr) minmax(150px,1fr); gap:12px; padding:13px 0; border-top:1px solid var(--line); align-items:start; }
+    .when strong { font-weight:500; display:block; }
+    .when small { color:var(--muted); }
+    .city { font-weight:500; }
+    .facts { font-size:11px; color:var(--muted); margin-top:3px; }
+    .ticket-links { display:flex; align-items:flex-end; flex-direction:column; gap:7px; }
+    .ticket-link { display:inline-flex; align-items:center; gap:6px; font-size:12px; text-align:right; overflow-wrap:anywhere; }
+    .ticket-link svg { width:14px; height:14px; }
+    .empty { text-align:center; padding:60px 15px; color:var(--muted); }
+    .empty h2 { color:var(--ink); }
+    .status { font-size:12px; color:var(--muted); margin-top:20px; }
+    .foot { display:flex; align-items:center; justify-content:space-between; gap:20px; border-top:1px solid var(--line); padding-top:18px; margin-top:30px; color:var(--muted); font-size:11px; }
+    .foot a { white-space:nowrap; }
+    [hidden] { display:none !important; }
+    @media (prefers-reduced-motion:no-preference) { main { animation:appear .25s ease-out; } @keyframes appear { from { opacity:0; transform:translateY(5px); } to { opacity:1; transform:translateY(0); } } }
+    @media (max-width:640px) {
+      .wrap { padding:0 18px; } nav { min-height:62px; } .edition { font-size:10px; max-width:115px; text-align:right; }
+      h1 { font-size:28px; } .masthead .wrap { padding-top:24px; padding-bottom:24px; } .criteria { gap:9px 14px; font-size:11px; }
+      .filters { grid-template-columns:1fr 1fr; gap:12px; } .filters>label:first-child { grid-column:1/-1; }
+      summary { grid-template-columns:48px minmax(0,1fr) 18px; gap:12px; padding:20px 0; } .date-tile { width:48px; height:62px; } .date-tile strong { font-size:23px; }
+      h2 { font-size:16px; } .meta { gap:5px 12px; } .schedule { margin-left:0; }
+      .schedule-row { grid-template-columns:100px minmax(0,1fr); gap:7px 12px; } .ticket-links { grid-column:2; align-items:flex-start; } .ticket-link { text-align:left; }
+      .actions { gap:12px; } .sort select { max-width:135px; } .result-bar { padding-top:22px; } .foot { align-items:flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="wrap" aria-label="Основная навигация">
+    <div class="brand"><span class="brand-mark"><i data-lucide="ticket" aria-hidden="true"></i></span>На сцену</div>
+    <span class="edition">Детские события · Израиль</span>
+  </nav>
+  <header class="masthead">
+    <img src="https://images.unsplash.com/photo-1503095396549-807759245b35?auto=format&fit=crop&w=1600&q=80" alt="" aria-hidden="true">
+    <div class="wrap">
+      <p class="eyebrow">Театр, истории и большие впечатления</p>
+      <h1>Детская афиша</h1>
+      <div class="criteria"><span><i data-lucide="map-pin" aria-hidden="true"></i>Ашдод — Нетания</span><span><i data-lucide="clock-3" aria-hidden="true"></i>Начало до 19:00</span><span><i data-lucide="sparkles" aria-hidden="true"></i>До 6 лет · возраст не указан</span></div>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="filters" aria-label="Фильтры">
+      <label>Название<div class="search-field"><i data-lucide="search" aria-hidden="true"></i><input id="search" type="search" placeholder="Найти спектакль" autocomplete="off"></div></label>
+      <label>Город<select id="city"><option value="">Все города</option></select></label>
+      <label>Месяц<select id="month"><option value="">Все даты</option></select></label>
+    </section>
+    <div class="result-bar">
+      <div><span id="count" role="status" aria-live="polite">Загрузка афиши…</span><p class="last-update">Последнее обновление: <time id="updated">загрузка…</time></p></div>
+      <div class="actions"><button class="text-button" id="reset" hidden>Сбросить</button><label class="sort"><i data-lucide="arrow-down-wide-narrow" aria-hidden="true"></i><select id="sort" aria-label="Сортировка"><option value="date">По ближайшей дате</option><option value="name">По названию</option></select></label></div>
+    </div>
+    <section id="shows" aria-label="Спектакли" aria-busy="true"></section>
+    <div id="empty" class="empty" hidden><h2>Ничего не найдено</h2><button class="text-button" id="empty-reset">Сбросить фильтры</button></div>
+    <div id="error" class="empty" hidden><h2>Не удалось загрузить афишу</h2><p>Файл отчёта недоступен или имеет неверный формат.</p><button class="text-button" id="retry">Повторить</button></div>
+    <p id="coverage" class="status"></p>
+    <footer class="foot"><a href="./events.json" target="_blank" rel="noopener">JSON ↗</a></footer>
+  </main>
+  <script>
+    const element = id => document.getElementById(id);
+    const cityNames = new Map([
+      ["Tel Aviv", "Тель-Авив"], ["Tel Aviv-Yafo", "Тель-Авив"], ["Тель-Авив-Яффо", "Тель-Авив"],
+      ["Petah Tikva", "Петах-Тиква"], ["Петах Тиква", "Петах-Тиква"], ["Ashdod", "Ашдод"],
+      ["Netanya", "Нетания"], ["Ra'anana", "Раанана"], ["ראשון לציון", "Ришон ле-Цион"],
+    ]);
+    const cityName = city => cityNames.get(city) ?? city;
+    const dateFormat = new Intl.DateTimeFormat("ru-RU", { day:"numeric", month:"long", timeZone:"UTC" });
+    const monthFormat = new Intl.DateTimeFormat("ru-RU", { month:"long", year:"numeric", timeZone:"UTC" });
+    const shortMonth = new Intl.DateTimeFormat("ru-RU", { month:"short", timeZone:"UTC" });
+    const dateValue = date => new Date(date + "T12:00:00Z");
+    const plural = (number, forms) => forms[new Intl.PluralRules("ru").select(number)] ?? forms.other;
+    let data = [];
+
+    function node(tag, className, text) {
+      const result = document.createElement(tag);
+      if (className) result.className = className;
+      if (text !== undefined) result.textContent = text;
+      return result;
+    }
+    function icon(name) {
+      const result = node("i");
+      result.dataset.lucide = name;
+      result.setAttribute("aria-hidden", "true");
+      return result;
+    }
+    function safeLink(value) {
+      try { const url = new URL(value); return url.protocol === "https:" && !url.username && !url.password ? url.href : null; } catch { return null; }
+    }
+    function schedules(performances) {
+      const rows = new Map();
+      for (const item of performances) {
+        const key = JSON.stringify([item.date, item.time ?? "", cityName(item.city)]);
+        const row = rows.get(key) ?? { ...item, city:cityName(item.city), entries:[] };
+        row.entries.push(item);
+        rows.set(key, row);
+      }
+      return [...rows.values()].sort((left, right) => left.date.localeCompare(right.date) || (left.time ?? "").localeCompare(right.time ?? "") || left.city.localeCompare(right.city, "ru"));
+    }
+    function showView(show, rows) {
+      const details = node("details", "show");
+      const summary = node("summary");
+      const tile = node("span", "date-tile");
+      tile.append(node("strong", "", rows[0].date.slice(8)), node("span", "", shortMonth.format(dateValue(rows[0].date)).replace(".", "")));
+      const description = node("div");
+      const heading = node("h2", "", show.name);
+      heading.dir = "auto";
+      const meta = node("div", "meta");
+      const cities = [...new Set(rows.map(row => row.city))];
+      const place = node("span");
+      place.append(icon("map-pin"), document.createTextNode(cities.length <= 2 ? cities.join(" · ") : `${cities[0]} + ещё ${cities.length - 1}`));
+      const count = node("span", "", `${rows.length} ${plural(rows.length, {one:"сеанс",few:"сеанса",many:"сеансов",other:"сеанса"})}`);
+      meta.append(place, count);
+      description.append(heading, meta);
+      const chevron = node("span", "chevron");
+      chevron.append(icon("chevron-down"));
+      summary.append(tile, description, chevron);
+      const schedule = node("div", "schedule");
+      for (const row of rows) {
+        const line = node("div", "schedule-row");
+        const when = node("div", "when");
+        when.append(node("strong", "", dateFormat.format(dateValue(row.date))), node("small", "", `${row.date.slice(0, 4)} · ${row.time ?? "Время не указано"}`));
+        const where = node("div");
+        where.append(node("div", "city", row.city));
+        const ages = [...new Set(row.entries.map(item => item.recommendedAge?.trim() || "Возраст не указан"))];
+        const languages = [...new Set(row.entries.map(item => ({ru:"На русском",und:"Язык не указан",he:"На иврите",en:"На английском"})[item.language] ?? "Язык не указан"))];
+        where.append(node("div", "facts", ages.join(" / ")), node("div", "facts", languages.join(" / ")));
+        const tickets = node("div", "ticket-links");
+        const links = [...new Set(row.entries.map(item => safeLink(item.ticketUrl)).filter(Boolean))];
+        for (const url of links) {
+          const hostname = new URL(url).hostname;
+          const seller = ({"israelshowru.kassa.co.il":"IsraelShow", "ru.kupatbravo.co.il":"Bravo", "tickets.tuz.co.il":"ТУЗ", "www.blackowlhouse.com":"Black Owl", "www.porat-theater.co.il":"Орна Порат", "afishamira.com":"Афиша Мира", "www.ticketsme.co.il":"TicketsMe", "netanya.smarticket.co.il":"Smarticket"})[hostname] ?? hostname.replace(/^www\./, "");
+          const link = node("a", "ticket-link", `Билеты · ${seller}`);
+          link.href = url; link.target = "_blank"; link.rel = "noopener noreferrer";
+          link.append(icon("arrow-up-right"));
+          tickets.append(link);
+        }
+        if (!links.length) tickets.append(node("span", "facts", "Ссылка недоступна"));
+        line.append(when, where, tickets);
+        schedule.append(line);
+      }
+      details.append(summary, schedule);
+      return details;
+    }
+    function render() {
+      const query = element("search").value.trim().toLocaleLowerCase("ru");
+      const city = element("city").value;
+      const month = element("month").value;
+      const matching = data.flatMap(show => {
+        if (!show.name.toLocaleLowerCase("ru").includes(query)) return [];
+        const rows = schedules(show.performances.filter(item => (!city || cityName(item.city) === city) && (!month || item.date.startsWith(month))));
+        return rows.length ? [{show, rows}] : [];
+      });
+      matching.sort((left, right) => element("sort").value === "name" ? left.show.name.localeCompare(right.show.name, "ru") : left.rows[0].date.localeCompare(right.rows[0].date) || (left.rows[0].time ?? "").localeCompare(right.rows[0].time ?? "") || left.show.name.localeCompare(right.show.name, "ru"));
+      element("shows").replaceChildren(...matching.map(({show, rows}) => showView(show, rows)));
+      element("count").textContent = `${matching.length} ${plural(matching.length, {one:"постановка",few:"постановки",many:"постановок",other:"постановки"})}`;
+      element("reset").hidden = !query && !city && !month;
+      element("empty").hidden = matching.length > 0;
+      window.lucide?.createIcons();
+    }
+    function reset() {
+      element("search").value = ""; element("city").value = ""; element("month").value = "";
+      render();
+    }
+    async function load() {
+      element("error").hidden = true;
+      element("empty").hidden = true;
+      element("shows").setAttribute("aria-busy", "true");
+      element("count").textContent = "Загрузка афиши…";
+      try {
+        const response = await fetch("./events.json", {cache:"no-store"});
+        if (!response.ok) throw new Error("Report unavailable");
+        const report = await response.json();
+        if (!Array.isArray(report.shows) || report.shows.some(show => typeof show.name !== "string" || !Array.isArray(show.performances) || show.performances.some(item => typeof item.city !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(item.date) || !Number.isFinite(dateValue(item.date).getTime())))) throw new Error("Invalid report");
+        data = report.shows;
+        const performances = data.flatMap(show => show.performances);
+        element("city").replaceChildren(new Option("Все города", ""), ...[...new Set(performances.map(item => cityName(item.city)))].sort((left,right) => left.localeCompare(right,"ru")).map(city => new Option(city,city)));
+        element("month").replaceChildren(new Option("Все даты", ""), ...[...new Set(performances.map(item => item.date.slice(0,7)))].sort().map(month => new Option(monthFormat.format(dateValue(month + "-01")),month)));
+        const updated = new Date(report.generatedAt);
+        const hasUpdated = Number.isFinite(updated.getTime());
+        element("updated").textContent = hasUpdated ? `${new Intl.DateTimeFormat("ru-RU", {dateStyle:"medium",timeStyle:"short",timeZone:"Asia/Jerusalem"}).format(updated)} (Израиль)` : "дата не указана";
+        if (hasUpdated) element("updated").dateTime = updated.toISOString();
+        else element("updated").removeAttribute("datetime");
+        const failures = report.coverage?.failedPages?.length ?? 0;
+        const unsupported = report.coverage?.unsupportedPageCount ?? 0;
+        element("coverage").textContent = [failures ? `Недоступные страницы: ${failures}` : "", unsupported ? `Неподдерживаемые страницы: ${unsupported}` : ""].filter(Boolean).join(" · ");
+        render();
+      } catch {
+        element("updated").textContent = "недоступно";
+        element("updated").removeAttribute("datetime");
+        data = []; element("shows").replaceChildren(); element("count").textContent = "Афиша недоступна"; element("error").hidden = false;
+      } finally { element("shows").setAttribute("aria-busy", "false"); }
+    }
+    element("search").addEventListener("input", render);
+    for (const id of ["city", "month", "sort"]) element(id).addEventListener("change", render);
+    element("reset").addEventListener("click", reset);
+    element("empty-reset").addEventListener("click", reset);
+    element("retry").addEventListener("click", load);
+    window.addEventListener("load", () => window.lucide?.createIcons());
+    load();
+  </script>
+</body>
+</html>

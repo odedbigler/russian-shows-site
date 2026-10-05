@@ -1,0 +1,1583 @@
+{
+  "generatedAt": "2026-10-05T11:51:50.757Z",
+  "timeZone": "Asia/Jerusalem",
+  "regionFilter": {
+    "south": "Ashdod",
+    "north": "Netanya",
+    "inclusive": true,
+    "unknownCity": "excluded"
+  },
+  "startTimeFilter": {
+    "latest": "19:00:00",
+    "inclusive": true,
+    "timeZone": "Asia/Jerusalem",
+    "unknownTime": "included"
+  },
+  "ageFilter": {
+    "minimumRecommendedAgeAtMost": 6,
+    "unknownAge": "included"
+  },
+  "showCount": 21,
+  "performanceCount": 67,
+  "shows": [
+    {
+      "name": "Анатолий Вайсман в Тель-Авиве: «Алиса в стране чудес»",
+      "location": [
+        "2026-11-10 in Тель-Авив"
+      ],
+      "performances": [
+        {
+          "date": "2026-11-10",
+          "time": "19:00",
+          "startsAt": "2026-11-10T17:00:00Z",
+          "city": "Тель-Авив",
+          "language": "und",
+          "ticketUrl": "https://afishamira.com/event/anatolij-vajsman-v-tel-avive-alisa-v-strane-chudes-2026/",
+          "sourceUrl": "https://afishamira.com/city/israel/",
+          "originalTitle": "Анатолий Вайсман в Тель-Авиве: «Алиса в стране чудес»",
+          "id": "afisha-mira-9f6fbf0e3cffe55d3e43"
+        }
+      ]
+    },
+    {
+      "name": "Апчхи! — Театр Давай",
+      "location": [
+        "2026-11-21 in Тель-Авив-Яффо"
+      ],
+      "performances": [
+        {
+          "date": "2026-11-21",
+          "time": "11:00",
+          "startsAt": "2026-11-21T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/209796",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86668",
+          "originalTitle": "Апчхи! — Театр Давай",
+          "id": "kassa-detail-42448f2aaae7a76b50ad",
+          "recommendedAge": "3-7"
+        }
+      ]
+    },
+    {
+      "name": "Где же Гого? — Театр Рути Тамир",
+      "location": [
+        "2026-11-14 in Тель-Авив-Яффо"
+      ],
+      "performances": [
+        {
+          "date": "2026-11-14",
+          "time": "11:00",
+          "startsAt": "2026-11-14T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213253",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87475",
+          "originalTitle": "Где же Гого? — Театр Рути Тамир",
+          "id": "kassa-detail-457bc4880718764e4e48",
+          "recommendedAge": "4-9"
+        }
+      ]
+    },
+    {
+      "name": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+      "location": [
+        "2026-12-02 in Герцлия",
+        "2026-12-05 in Нетания",
+        "2026-12-07 in Модиин",
+        "2026-12-09 in Нес-Циона",
+        "2026-12-10 in Ашдод",
+        "2026-12-14 in Петах-Тиква",
+        "2026-12-15 in Тель-Авив-Яффо"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-02",
+          "time": "17:30",
+          "startsAt": "2026-12-02T17:30+02:00",
+          "city": "Герцлия",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211316",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-6908134f5ba013cecf3f",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "17:30",
+          "startsAt": "2026-12-02T17:30+02:00",
+          "city": "Герцлия",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211316",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-67c80abfe1561c7d4e78",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "18:15",
+          "startsAt": "2026-12-05T18:15+02:00",
+          "city": "Нетания",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211319",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-ce18e486689b55774ae6",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "18:15",
+          "startsAt": "2026-12-05T18:15+02:00",
+          "city": "Нетания",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211319",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-508aa0613d2cd12f583e",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "17:30",
+          "startsAt": "2026-12-07T17:30+02:00",
+          "city": "Модиин",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211321",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-cb432393e168000317fb",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "17:30",
+          "startsAt": "2026-12-07T17:30+02:00",
+          "city": "Модиин",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211321",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-af707e9a14ebe3c67a53",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "17:30",
+          "startsAt": "2026-12-09T17:30+02:00",
+          "city": "Нес-Циона",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211323",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-afdf9e12acb1f59af067",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "17:30",
+          "startsAt": "2026-12-09T17:30+02:00",
+          "city": "Нес-Циона",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211323",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-e8b96fdeba30f098a556",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "17:30",
+          "startsAt": "2026-12-10T17:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211303",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-af009653a5054bcfc52c",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "17:30",
+          "startsAt": "2026-12-10T17:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211303",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-44b7761a027bade80216",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "17:30",
+          "startsAt": "2026-12-14T17:30+02:00",
+          "city": "Петах-Тиква",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211331",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-c8e99a0b298748a254f6",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "17:30",
+          "startsAt": "2026-12-14T17:30+02:00",
+          "city": "Петах-Тиква",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211331",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-f44e3688d19f370d2eda",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "17:00",
+          "startsAt": "2026-12-15T17:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/212476",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-3f7ec10c78666beff11b",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "17:00",
+          "startsAt": "2026-12-15T17:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/212476",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
+          "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+          "id": "kassa-detail-65558d99958aae12ae87",
+          "recommendedAge": "2+"
+        }
+      ]
+    },
+    {
+      "name": "Новогодние приключения Бабы Яги — театр Zero",
+      "location": [
+        "2026-12-24 in Нетания",
+        "2026-12-26 in Ришон ле-Цион",
+        "2026-12-29 in Реховот",
+        "2026-12-30 in Петах-Тиква",
+        "2027-01-02 in Ашдод",
+        "2027-01-09 in Кирьят-Оно"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-24",
+          "time": "18:00",
+          "startsAt": "2026-12-24T18:00+02:00",
+          "city": "Нетания",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/209981",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-76e565c29fb66373cca3",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "18:00",
+          "startsAt": "2026-12-24T18:00+02:00",
+          "city": "Нетания",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/209981",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-05c09296f576ab3e0b2c",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "11:00",
+          "startsAt": "2026-12-26T11:00+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/209982",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-45415b3f0bdcb62de133",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "11:00",
+          "startsAt": "2026-12-26T11:00+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/209982",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-be1f28cd7b4f095e3e0d",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "18:00",
+          "startsAt": "2026-12-29T18:00+02:00",
+          "city": "Реховот",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/209983",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-bd4da91b3a9457736601",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "18:00",
+          "startsAt": "2026-12-29T18:00+02:00",
+          "city": "Реховот",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/209983",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-d67e21fe4f7163a1b3e0",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "18:00",
+          "startsAt": "2026-12-30T18:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/209986",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-fde96686dcc6fe06d17c",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "18:00",
+          "startsAt": "2026-12-30T18:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/209986",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-ccb5da573521def6cbdf",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-01-02",
+          "time": "11:30",
+          "startsAt": "2027-01-02T11:30+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/209987",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-39623f62c49ad8fa553e",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-01-02",
+          "time": "11:30",
+          "startsAt": "2027-01-02T11:30+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/209987",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-25a2bb65a79bd29d26d3",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-01-09",
+          "time": "12:00",
+          "startsAt": "2027-01-09T12:00+02:00",
+          "city": "Кирьят-Оно",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/212223",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-7eb1e163aea36dfae9da",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-01-09",
+          "time": "12:00",
+          "startsAt": "2027-01-09T12:00+02:00",
+          "city": "Кирьят-Оно",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/212223",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-3758e6f1233788fd55f5",
+          "recommendedAge": "3+"
+        }
+      ]
+    },
+    {
+      "name": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+      "location": [
+        "2026-12-18 in Ришон ле-Цион",
+        "2026-12-26 in Ашдод",
+        "2026-12-27 in Нетания",
+        "2026-12-30 in Петах Тиква"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-18",
+          "time": "14:00",
+          "startsAt": "2026-12-18T12:00:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-18-dec-2026/eid/413",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
+          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+          "id": "tuz-tickets-413"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "11:00",
+          "startsAt": "2026-12-26T09:00:00Z",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-26-dec-2026/eid/424",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
+          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+          "id": "tuz-tickets-424"
+        },
+        {
+          "date": "2026-12-27",
+          "time": "17:30",
+          "startsAt": "2026-12-27T15:30:00Z",
+          "city": "Нетания",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-27-dec-2026/eid/414",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
+          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+          "id": "tuz-tickets-414"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "17:30",
+          "startsAt": "2026-12-30T15:30:00Z",
+          "city": "Петах Тиква",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-30-dec-2026/eid/426",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
+          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+          "id": "tuz-tickets-426"
+        }
+      ]
+    },
+    {
+      "name": "Одолеем Бармалея — спектакль театра ЭТО",
+      "location": [
+        "2026-11-20 in Петах-Тиква",
+        "2026-11-28 in Ашдод"
+      ],
+      "performances": [
+        {
+          "date": "2026-11-20",
+          "time": "14:00",
+          "startsAt": "2026-11-20T14:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211778",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87180",
+          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
+          "id": "kassa-detail-d4c7f0e63a5d37eca9ae",
+          "recommendedAge": "5+"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "14:00",
+          "startsAt": "2026-11-20T14:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211778",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87180",
+          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
+          "id": "kassa-detail-b5f5e4cdaaf707cfe327",
+          "recommendedAge": "5+"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "12:00",
+          "startsAt": "2026-11-28T12:00+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/212224",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87180",
+          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
+          "id": "kassa-detail-590dab10b87148ff6378",
+          "recommendedAge": "5+"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "12:00",
+          "startsAt": "2026-11-28T12:00+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/212224",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87180",
+          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
+          "id": "kassa-detail-b438e81f2d2db9e9a02e",
+          "recommendedAge": "5+"
+        }
+      ]
+    },
+    {
+      "name": "Послушайте, я здесь!",
+      "location": [
+        "2026-10-22 in Netanya"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-22",
+          "time": "18:00",
+          "startsAt": "2026-10-22T15:00:00.000Z",
+          "city": "Netanya",
+          "language": "und",
+          "ticketUrl": "https://netanya.smarticket.co.il/show/21890",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Спектакль «Послушайте, я здесь!» в Нетании (билеты по субсидированной цене)",
+          "id": "black-owl-house-1f1ee546-9f20-4361-a5d2-3e0f9e513d1d",
+          "recommendedAge": "3-10"
+        }
+      ]
+    },
+    {
+      "name": "Премьера 2026. Снежная Королева",
+      "location": [
+        "2026-12-19 in Холон",
+        "2026-12-25 in Нетания",
+        "2026-12-27 in Лод",
+        "2026-12-28 in Петах Тиква",
+        "2026-12-30 in Ашдод",
+        "2027-01-02 in Ришон ле-Цион"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-19",
+          "time": "11:00",
+          "startsAt": "2026-12-19T09:00:00Z",
+          "city": "Холон",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-19-dec-2026/eid/419",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+          "originalTitle": "Премьера 2026. Снежная Королева",
+          "id": "tuz-tickets-419"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "14:00",
+          "startsAt": "2026-12-25T12:00:00Z",
+          "city": "Нетания",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-25-dec-2026/eid/410",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+          "originalTitle": "Премьера 2026. Снежная Королева",
+          "id": "tuz-tickets-410"
+        },
+        {
+          "date": "2026-12-27",
+          "time": "17:30",
+          "startsAt": "2026-12-27T15:30:00Z",
+          "city": "Лод",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-27-dec-2026/eid/422",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+          "originalTitle": "Премьера 2026. Снежная Королева",
+          "id": "tuz-tickets-422"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "17:30",
+          "startsAt": "2026-12-28T15:30:00Z",
+          "city": "Петах Тиква",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-28-dec-2026/eid/417",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+          "originalTitle": "Премьера 2026. Снежная Королева",
+          "id": "tuz-tickets-417"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "17:30",
+          "startsAt": "2026-12-30T15:30:00Z",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-30-dec-2026/eid/418",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+          "originalTitle": "Премьера 2026. Снежная Королева",
+          "id": "tuz-tickets-418"
+        },
+        {
+          "date": "2027-01-02",
+          "time": "11:00",
+          "startsAt": "2027-01-02T09:00:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+          "originalTitle": "Премьера 2026. Снежная Королева",
+          "id": "tuz-tickets-411"
+        }
+      ]
+    },
+    {
+      "name": "Приключения БУРАТИНО",
+      "location": [
+        "2026-10-09 in Нетания",
+        "2026-10-10 in Ришон ле-Цион",
+        "2026-10-24 in Ашдод",
+        "2026-11-14 in Петах Тиква"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-09",
+          "time": "14:00",
+          "startsAt": "2026-10-09T11:00:00Z",
+          "city": "Нетания",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-09-oct-2026/eid/438",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
+          "originalTitle": "Приключения БУРАТИНО",
+          "id": "tuz-tickets-438"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "11:00",
+          "startsAt": "2026-10-10T08:00:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-10-oct-2026/eid/435",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
+          "originalTitle": "Приключения БУРАТИНО",
+          "id": "tuz-tickets-435"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "13:30",
+          "startsAt": "2026-10-10T10:30:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-10-oct-13-2026/eid/471",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
+          "originalTitle": "Приключения БУРАТИНО",
+          "id": "tuz-tickets-471"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "11:00",
+          "startsAt": "2026-10-24T08:00:00Z",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-24-oct-2026/eid/437",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
+          "originalTitle": "Приключения БУРАТИНО",
+          "id": "tuz-tickets-437"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "18:00",
+          "startsAt": "2026-11-14T16:00:00Z",
+          "city": "Петах Тиква",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
+          "originalTitle": "Приключения БУРАТИНО",
+          "id": "tuz-tickets-474"
+        }
+      ]
+    },
+    {
+      "name": "Тюлька",
+      "location": [
+        "2026-10-09 in Petah Tikva",
+        "2026-10-10 in Ra'anana",
+        "2026-10-17 in Ashdod",
+        "2026-10-24 in Tel Aviv-Yafo"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-09",
+          "time": "14:00",
+          "startsAt": "2026-10-09T11:00:00.000Z",
+          "city": "Petah Tikva",
+          "language": "und",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/spektakl-tyulka-v-petakh-tikve",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Спектакль «Тюлька» в Петах-Тикве",
+          "id": "black-owl-house-d0066794-3e40-4769-b0cf-0037d5ee1b59",
+          "recommendedAge": "3-10"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "11:00",
+          "startsAt": "2026-10-10T08:00:00.000Z",
+          "city": "Ra'anana",
+          "language": "und",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/spektakl-tyulka-v-raanane-1",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Спектакль «Тюлька» в Раанане",
+          "id": "black-owl-house-50a91fa3-e07e-41ba-ab3c-34ba2f2ae5c3",
+          "recommendedAge": "3-10"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "11:00",
+          "startsAt": "2026-10-17T08:00:00.000Z",
+          "city": "Ashdod",
+          "language": "und",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/spektakl-tyulka-v-ashdode",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Спектакль «Тюлька» в Ашдоде",
+          "id": "black-owl-house-3f35c84d-3e47-4e06-aab7-3cf674a29d9a",
+          "recommendedAge": "3-10"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "11:00",
+          "startsAt": "2026-10-24T08:00:00.000Z",
+          "city": "Tel Aviv-Yafo",
+          "language": "und",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/spektakl-tyulka-v-tel-avive-2",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Спектакль «Тюлька» в Тель-Авиве",
+          "id": "black-owl-house-074c5c43-562f-444f-b951-eec6533e6747",
+          "recommendedAge": "3-10"
+        }
+      ]
+    },
+    {
+      "name": "Фести LIVE: Подарки Деда Мороза.",
+      "location": [
+        "2026-12-19 in Ашдод",
+        "2026-12-20 in Ришон ле-Цион",
+        "2026-12-23 in Петах Тиква",
+        "2026-12-28 in Холон",
+        "2027-01-01 in Нетания"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-19",
+          "time": "11:00",
+          "startsAt": "2026-12-19T09:00:00Z",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-19-dec-2026/eid/443",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
+          "id": "tuz-tickets-443"
+        },
+        {
+          "date": "2026-12-20",
+          "time": "17:30",
+          "startsAt": "2026-12-20T15:30:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-20-dec-2026/eid/459",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+          "originalTitle": "Фести LIVE: Подарки Деда Мороза",
+          "id": "tuz-tickets-459"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "17:30",
+          "startsAt": "2026-12-23T15:30:00Z",
+          "city": "Петах Тиква",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-23-dec-2026/eid/475",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
+          "id": "tuz-tickets-475"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "17:30",
+          "startsAt": "2026-12-28T15:30:00Z",
+          "city": "Холон",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-28-dec-2026/eid/469",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
+          "id": "tuz-tickets-469"
+        },
+        {
+          "date": "2027-01-01",
+          "time": "14:00",
+          "startsAt": "2027-01-01T12:00:00Z",
+          "city": "Нетания",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-01-jan-2027/eid/442",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
+          "id": "tuz-tickets-442"
+        }
+      ]
+    },
+    {
+      "name": "בת דודה של",
+      "location": [
+        "2026-10-10 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-10",
+          "time": "11:00",
+          "startsAt": "2026-10-10T08:00:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1848/%D7%91%D7%AA_%D7%93%D7%95%D7%93%D7%94_%D7%A9%D7%9C",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "בת דודה של",
+          "id": "orna-porat-1d4e3109f7b9aa42ae9d"
+        }
+      ]
+    },
+    {
+      "name": "דבר עברית - הצגת ילדים",
+      "location": [
+        "2026-10-10 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-10",
+          "time": "10:30",
+          "startsAt": "2026-10-10T07:30:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/698/%D7%93%D7%91%D7%A8_%D7%A2%D7%91%D7%A8%D7%99%D7%AA_-_%D7%94%D7%A6%D7%92%D7%AA_%D7%99%D7%9C%D7%93%D7%99%D7%9D",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "דבר עברית - הצגת ילדים",
+          "id": "orna-porat-519a506bc2be0f617a35"
+        }
+      ]
+    },
+    {
+      "name": "הדייג ודג הזהב",
+      "location": [
+        "2026-10-17 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "startsAt": "2026-10-17T07:00:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1679/%D7%94%D7%93%D7%99%D7%99%D7%92_%D7%95%D7%93%D7%92_%D7%94%D7%96%D7%94%D7%91",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "הדייג ודג הזהב",
+          "id": "orna-porat-8d232ae954e91f5d1b2a"
+        }
+      ]
+    },
+    {
+      "name": "הלל",
+      "location": [
+        "2026-10-17 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "startsAt": "2026-10-17T07:00:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1318/%D7%94%D7%9C%D7%9C",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "הלל",
+          "id": "orna-porat-19d93331a20f541f90e8"
+        }
+      ]
+    },
+    {
+      "name": "ואני שר",
+      "location": [
+        "2026-10-17 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-17",
+          "time": "11:00",
+          "startsAt": "2026-10-17T08:00:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1948/%D7%95%D7%90%D7%A0%D7%99_%D7%A9%D7%A8",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "ואני שר",
+          "id": "orna-porat-32eede3bad8e167edd85"
+        }
+      ]
+    },
+    {
+      "name": "מחסן השטוזים של דתיה",
+      "location": [
+        "2026-10-10 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-10",
+          "time": "10:00",
+          "startsAt": "2026-10-10T07:00:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/427/%D7%9E%D7%97%D7%A1%D7%9F_%D7%94%D7%A9%D7%98%D7%95%D7%96%D7%99%D7%9D_%D7%A9%D7%9C_%D7%93%D7%AA%D7%99%D7%94",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "מחסן השטוזים של דתיה",
+          "id": "orna-porat-97297eaea0eef9e8d070"
+        }
+      ]
+    },
+    {
+      "name": "מתנה מיוחדת במינה",
+      "location": [
+        "2026-10-17 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-17",
+          "time": "10:30",
+          "startsAt": "2026-10-17T07:30:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1814/%D7%9E%D7%AA%D7%A0%D7%94_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%AA_%D7%91%D7%9E%D7%99%D7%A0%D7%94",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "מתנה מיוחדת במינה",
+          "id": "orna-porat-4aeeb6a7440019812b01"
+        }
+      ]
+    },
+    {
+      "name": "פסטי LIVE קידס: צלילי הקסם",
+      "location": [
+        "2027-02-13 in ראשון לציון"
+      ],
+      "performances": [
+        {
+          "date": "2027-02-13",
+          "time": "11:00",
+          "startsAt": "2027-02-13T09:00:00Z",
+          "city": "ראשון לציון",
+          "language": "und",
+          "ticketUrl": "https://www.ticketsme.co.il/he/live-13-feb-2027/eid/83",
+          "sourceUrl": "https://www.ticketsme.co.il/he/live-13-feb-2027/eid/83",
+          "originalTitle": "פסטי LIVE קידס: צלילי הקסם",
+          "id": "tickets-me-e7dfa4c04b38d025b26f"
+        }
+      ]
+    },
+    {
+      "name": "צוציקים - הצגה לפעוטות",
+      "location": [
+        "2026-10-24 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-24",
+          "time": "10:00",
+          "startsAt": "2026-10-24T07:00:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/778/%D7%A6%D7%95%D7%A6%D7%99%D7%A7%D7%99%D7%9D_-_%D7%94%D7%A6%D7%92%D7%94_%D7%9C%D7%A4%D7%A2%D7%95%D7%98%D7%95%D7%AA",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "צוציקים - הצגה לפעוטות",
+          "id": "orna-porat-29d77c06cead2ff86812"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "sourcePages": [
+      {
+        "url": "https://israelshow.co.il/ru/forkids.asp",
+        "status": "parsed",
+        "parserId": "israelshow-children",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 7,
+        "warnings": [
+          "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+        ]
+      },
+      {
+        "url": "https://www.blackowlhouse.com/main",
+        "status": "parsed",
+        "parserId": "black-owl-house",
+        "fromCache": true,
+        "eventCount": 5,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 8 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/list/section:41/",
+        "status": "parsed",
+        "parserId": "bravo",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "No complete Russian or unknown-language occurrences extracted; returned available detail links."
+        ]
+      },
+      {
+        "url": "https://aleftheatre.com/",
+        "status": "parsed",
+        "parserId": "alef",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 5,
+        "warnings": [
+          "Tilda production cards require detail pages for reliable dates and cities."
+        ]
+      },
+      {
+        "url": "https://www.tuz.co.il/",
+        "status": "parsed",
+        "parserId": "tuz",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 1,
+        "warnings": [
+          "No complete event occurrences in embedded Wix data; returned available ticket links only."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru",
+        "status": "parsed",
+        "parserId": "tuz-tickets",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 5,
+        "warnings": [
+          "No complete Russian or unknown-language occurrences extracted; returned available detail links."
+        ]
+      },
+      {
+        "url": "https://mikrotheater.com/ru/schedule/",
+        "status": "parsed",
+        "parserId": "mikro",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 10,
+        "warnings": [
+          "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
+          "Excluded 8 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://haifa-seasons.com/detskie-predstavleniya.html",
+        "status": "parsed",
+        "parserId": "haifa-seasons",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 6,
+        "warnings": [
+          "Children's listing lacks full occurrence dates/cities; yearless dates and sidebar recommendations are not events."
+        ]
+      },
+      {
+        "url": "https://afishka.co.il/",
+        "status": "parsed",
+        "parserId": "afishka",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 51,
+        "warnings": [
+          "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
+        ]
+      },
+      {
+        "url": "https://bilety.co.il/he-il",
+        "status": "parsed",
+        "parserId": "bilety",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 54,
+        "warnings": [
+          "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
+        ]
+      },
+      {
+        "url": "https://anshlag.co.il/",
+        "status": "parsed",
+        "parserId": "anshlag",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 106,
+        "warnings": [
+          "Tour cards require production details to associate occurrences with cities."
+        ]
+      },
+      {
+        "url": "https://www.malenky.co.il/",
+        "status": "parsed",
+        "parserId": "malenky",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 2,
+        "warnings": [
+          "No complete event occurrences in embedded Wix data; returned available ticket links only."
+        ]
+      },
+      {
+        "url": "https://www.gesher-theatre.co.il/ru/company/a/calendar/",
+        "status": "parsed",
+        "parserId": "gesher",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 9,
+        "warnings": [
+          "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
+        ]
+      },
+      {
+        "url": "https://sarafanpro.com/afisha/",
+        "status": "parsed",
+        "parserId": "sarafan",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 9,
+        "warnings": [
+          "Dates on directory cards are publication dates, not performance dates."
+        ]
+      },
+      {
+        "url": "https://afishamira.com/city/israel/",
+        "status": "parsed",
+        "parserId": "afisha-mira",
+        "fromCache": true,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 60,
+        "warnings": [
+          "Excluded 61 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 89 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://clipa.smarticket.co.il/",
+        "status": "parsed",
+        "parserId": "clipa",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 5,
+        "warnings": [
+          "Cards provide a venue name but no city; detail pages are needed. Hebrew interface text is not a performance-language label."
+        ]
+      },
+      {
+        "url": "https://www.zikit-theater.com/%D7%9C%D7%95%D7%97-%D7%9E%D7%95%D7%A4%D7%A2%D7%99%D7%9D",
+        "status": "parsed",
+        "parserId": "zikit",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No complete event occurrences in embedded Wix data; returned available ticket links only."
+        ]
+      },
+      {
+        "url": "https://www.porat-theater.co.il/",
+        "status": "parsed",
+        "parserId": "orna-porat",
+        "fromCache": true,
+        "eventCount": 8,
+        "excludedLanguageCount": 0,
+        "linkCount": 8,
+        "warnings": [
+          "Performance language is not inferred from the Hebrew website. Published local times use Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://www.ticketsme.co.il/he",
+        "status": "parsed",
+        "parserId": "tickets-me",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 8,
+        "warnings": [
+          "No complete Russian or unknown-language occurrences extracted; returned available detail links."
+        ]
+      },
+      {
+        "url": "https://www.haifa.events/ru/",
+        "status": "parsed",
+        "parserId": "haifa-events",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 18,
+        "warnings": [
+          "Homepage cards omit the year; occurrence-specific detail URLs retain the selected performance."
+        ]
+      },
+      {
+        "url": "https://rusevents.com/israel/haifa/events/",
+        "status": "parsed",
+        "parserId": "rusevents",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
+        ]
+      },
+      {
+        "url": "https://ru.israelshow.co.il/theater-zero.asp",
+        "status": "parsed",
+        "parserId": "zero",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 9,
+        "warnings": [
+          "Deferred 5 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+        ]
+      },
+      {
+        "url": "https://anshlag.co.il/performer/theater-maagal/",
+        "status": "parsed",
+        "parserId": "maagal",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Performer profile: past-event archive is excluded; only current production links are returned when present."
+        ]
+      },
+      {
+        "url": "https://anshlag.co.il/performer/theatr-eto/",
+        "status": "parsed",
+        "parserId": "eto",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Performer profile: past-event archive is excluded; only current production links are returned when present."
+        ]
+      }
+    ],
+    "detailPages": [
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/86668",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/86706",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 6,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87000",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 7,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 7 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87180",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87475",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87000",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 7,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 7 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/86706",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 6,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87180",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": true,
+        "eventCount": 5,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/gde-ty-don-kixot-17-nov-2026/eid/467/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 4 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": true,
+        "eventCount": 4,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": true,
+        "eventCount": 5,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": true,
+        "eventCount": 6,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://www.ticketsme.co.il/he/vivaldi-the-four-seasons-09-jan-2027/eid/66",
+        "status": "parsed",
+        "parserId": "tickets-me-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 classical-music or orchestra events by title."
+        ]
+      },
+      {
+        "url": "https://www.ticketsme.co.il/he/9-abba-vs-the-betles/eid/84",
+        "status": "parsed",
+        "parserId": "tickets-me-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://www.ticketsme.co.il/he/live-13-feb-2027/eid/83",
+        "status": "parsed",
+        "parserId": "tickets-me-detail",
+        "fromCache": true,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87428",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No complete eligible Kassa performances found; listing dates are not used as a fallback."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87429",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87391",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No complete eligible Kassa performances found; listing dates are not used as a fallback."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87392",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87274",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 9 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87185",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87187",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": true,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 2 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      }
+    ],
+    "unsupportedPageCount": 351,
+    "failedPages": [
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/78234",
+        "status": "failed",
+        "error": "HTTP 301; redirects and retries are disabled"
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/85141",
+        "status": "failed",
+        "error": "HTTP 301; redirects and retries are disabled"
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/85317",
+        "status": "failed",
+        "error": "HTTP 301; redirects and retries are disabled"
+      }
+    ],
+    "pendingUrls": [],
+    "omittedUrls": 0
+  }
+}
