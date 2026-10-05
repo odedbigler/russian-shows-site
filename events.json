@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:51:50.757Z",
+  "generatedAt": "2026-10-05T12:47:11.258Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,28 +17,9 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 21,
-  "performanceCount": 67,
+  "showCount": 17,
+  "performanceCount": 50,
   "shows": [
-    {
-      "name": "Анатолий Вайсман в Тель-Авиве: «Алиса в стране чудес»",
-      "location": [
-        "2026-11-10 in Тель-Авив"
-      ],
-      "performances": [
-        {
-          "date": "2026-11-10",
-          "time": "19:00",
-          "startsAt": "2026-11-10T17:00:00Z",
-          "city": "Тель-Авив",
-          "language": "und",
-          "ticketUrl": "https://afishamira.com/event/anatolij-vajsman-v-tel-avive-alisa-v-strane-chudes-2026/",
-          "sourceUrl": "https://afishamira.com/city/israel/",
-          "originalTitle": "Анатолий Вайсман в Тель-Авиве: «Алиса в стране чудес»",
-          "id": "afisha-mira-9f6fbf0e3cffe55d3e43"
-        }
-      ]
-    },
     {
       "name": "Апчхи! — Театр Давай",
       "location": [
@@ -551,151 +532,6 @@
       ]
     },
     {
-      "name": "Премьера 2026. Снежная Королева",
-      "location": [
-        "2026-12-19 in Холон",
-        "2026-12-25 in Нетания",
-        "2026-12-27 in Лод",
-        "2026-12-28 in Петах Тиква",
-        "2026-12-30 in Ашдод",
-        "2027-01-02 in Ришон ле-Цион"
-      ],
-      "performances": [
-        {
-          "date": "2026-12-19",
-          "time": "11:00",
-          "startsAt": "2026-12-19T09:00:00Z",
-          "city": "Холон",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-19-dec-2026/eid/419",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-419"
-        },
-        {
-          "date": "2026-12-25",
-          "time": "14:00",
-          "startsAt": "2026-12-25T12:00:00Z",
-          "city": "Нетания",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-25-dec-2026/eid/410",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-410"
-        },
-        {
-          "date": "2026-12-27",
-          "time": "17:30",
-          "startsAt": "2026-12-27T15:30:00Z",
-          "city": "Лод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-27-dec-2026/eid/422",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-422"
-        },
-        {
-          "date": "2026-12-28",
-          "time": "17:30",
-          "startsAt": "2026-12-28T15:30:00Z",
-          "city": "Петах Тиква",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-28-dec-2026/eid/417",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-417"
-        },
-        {
-          "date": "2026-12-30",
-          "time": "17:30",
-          "startsAt": "2026-12-30T15:30:00Z",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-30-dec-2026/eid/418",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-418"
-        },
-        {
-          "date": "2027-01-02",
-          "time": "11:00",
-          "startsAt": "2027-01-02T09:00:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-411"
-        }
-      ]
-    },
-    {
-      "name": "Приключения БУРАТИНО",
-      "location": [
-        "2026-10-09 in Нетания",
-        "2026-10-10 in Ришон ле-Цион",
-        "2026-10-24 in Ашдод",
-        "2026-11-14 in Петах Тиква"
-      ],
-      "performances": [
-        {
-          "date": "2026-10-09",
-          "time": "14:00",
-          "startsAt": "2026-10-09T11:00:00Z",
-          "city": "Нетания",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-09-oct-2026/eid/438",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-438"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "11:00",
-          "startsAt": "2026-10-10T08:00:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-10-oct-2026/eid/435",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-435"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "13:30",
-          "startsAt": "2026-10-10T10:30:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-10-oct-13-2026/eid/471",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-471"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "11:00",
-          "startsAt": "2026-10-24T08:00:00Z",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-24-oct-2026/eid/437",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-437"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "18:00",
-          "startsAt": "2026-11-14T16:00:00Z",
-          "city": "Петах Тиква",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-474"
-        }
-      ]
-    },
-    {
       "name": "Тюлька",
       "location": [
         "2026-10-09 in Petah Tikva",
@@ -751,73 +587,6 @@
           "originalTitle": "Спектакль «Тюлька» в Тель-Авиве",
           "id": "black-owl-house-074c5c43-562f-444f-b951-eec6533e6747",
           "recommendedAge": "3-10"
-        }
-      ]
-    },
-    {
-      "name": "Фести LIVE: Подарки Деда Мороза.",
-      "location": [
-        "2026-12-19 in Ашдод",
-        "2026-12-20 in Ришон ле-Цион",
-        "2026-12-23 in Петах Тиква",
-        "2026-12-28 in Холон",
-        "2027-01-01 in Нетания"
-      ],
-      "performances": [
-        {
-          "date": "2026-12-19",
-          "time": "11:00",
-          "startsAt": "2026-12-19T09:00:00Z",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-19-dec-2026/eid/443",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-443"
-        },
-        {
-          "date": "2026-12-20",
-          "time": "17:30",
-          "startsAt": "2026-12-20T15:30:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-20-dec-2026/eid/459",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза",
-          "id": "tuz-tickets-459"
-        },
-        {
-          "date": "2026-12-23",
-          "time": "17:30",
-          "startsAt": "2026-12-23T15:30:00Z",
-          "city": "Петах Тиква",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-23-dec-2026/eid/475",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-475"
-        },
-        {
-          "date": "2026-12-28",
-          "time": "17:30",
-          "startsAt": "2026-12-28T15:30:00Z",
-          "city": "Холон",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-28-dec-2026/eid/469",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-469"
-        },
-        {
-          "date": "2027-01-01",
-          "time": "14:00",
-          "startsAt": "2027-01-01T12:00:00Z",
-          "city": "Нетания",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-01-jan-2027/eid/442",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-442"
         }
       ]
     },
@@ -999,7 +768,7 @@
         "url": "https://israelshow.co.il/ru/forkids.asp",
         "status": "parsed",
         "parserId": "israelshow-children",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 7,
@@ -1011,7 +780,7 @@
         "url": "https://www.blackowlhouse.com/main",
         "status": "parsed",
         "parserId": "black-owl-house",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 5,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1024,7 +793,7 @@
         "url": "https://ru.kupatbravo.co.il/list/section:41/",
         "status": "parsed",
         "parserId": "bravo",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 3,
@@ -1036,7 +805,7 @@
         "url": "https://aleftheatre.com/",
         "status": "parsed",
         "parserId": "alef",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 5,
@@ -1048,7 +817,7 @@
         "url": "https://www.tuz.co.il/",
         "status": "parsed",
         "parserId": "tuz",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 1,
@@ -1060,7 +829,7 @@
         "url": "https://tickets.tuz.co.il/ru",
         "status": "parsed",
         "parserId": "tuz-tickets",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 5,
@@ -1072,7 +841,7 @@
         "url": "https://mikrotheater.com/ru/schedule/",
         "status": "parsed",
         "parserId": "mikro",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 10,
@@ -1086,7 +855,7 @@
         "url": "https://haifa-seasons.com/detskie-predstavleniya.html",
         "status": "parsed",
         "parserId": "haifa-seasons",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 6,
@@ -1098,7 +867,7 @@
         "url": "https://afishka.co.il/",
         "status": "parsed",
         "parserId": "afishka",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 51,
@@ -1110,7 +879,7 @@
         "url": "https://bilety.co.il/he-il",
         "status": "parsed",
         "parserId": "bilety",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 54,
@@ -1122,7 +891,7 @@
         "url": "https://anshlag.co.il/",
         "status": "parsed",
         "parserId": "anshlag",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 106,
@@ -1134,7 +903,7 @@
         "url": "https://www.malenky.co.il/",
         "status": "parsed",
         "parserId": "malenky",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 2,
@@ -1146,7 +915,7 @@
         "url": "https://www.gesher-theatre.co.il/ru/company/a/calendar/",
         "status": "parsed",
         "parserId": "gesher",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 9,
@@ -1158,7 +927,7 @@
         "url": "https://sarafanpro.com/afisha/",
         "status": "parsed",
         "parserId": "sarafan",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 9,
@@ -1168,22 +937,14 @@
       },
       {
         "url": "https://afishamira.com/city/israel/",
-        "status": "parsed",
-        "parserId": "afisha-mira",
-        "fromCache": true,
-        "eventCount": 1,
-        "excludedLanguageCount": 0,
-        "linkCount": 60,
-        "warnings": [
-          "Excluded 61 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 89 events starting after 19:00 in Asia/Jerusalem."
-        ]
+        "status": "failed",
+        "error": "HTTP 403; redirects and retries are disabled"
       },
       {
         "url": "https://clipa.smarticket.co.il/",
         "status": "parsed",
         "parserId": "clipa",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 5,
@@ -1195,7 +956,7 @@
         "url": "https://www.zikit-theater.com/%D7%9C%D7%95%D7%97-%D7%9E%D7%95%D7%A4%D7%A2%D7%99%D7%9D",
         "status": "parsed",
         "parserId": "zikit",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1207,7 +968,7 @@
         "url": "https://www.porat-theater.co.il/",
         "status": "parsed",
         "parserId": "orna-porat",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 8,
         "excludedLanguageCount": 0,
         "linkCount": 8,
@@ -1219,7 +980,7 @@
         "url": "https://www.ticketsme.co.il/he",
         "status": "parsed",
         "parserId": "tickets-me",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 8,
@@ -1229,21 +990,14 @@
       },
       {
         "url": "https://www.haifa.events/ru/",
-        "status": "parsed",
-        "parserId": "haifa-events",
-        "fromCache": true,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 18,
-        "warnings": [
-          "Homepage cards omit the year; occurrence-specific detail URLs retain the selected performance."
-        ]
+        "status": "failed",
+        "error": "HTTP 403; redirects and retries are disabled"
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
         "status": "parsed",
         "parserId": "rusevents",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 3,
@@ -1255,7 +1009,7 @@
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
         "status": "parsed",
         "parserId": "zero",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 9,
@@ -1267,7 +1021,7 @@
         "url": "https://anshlag.co.il/performer/theater-maagal/",
         "status": "parsed",
         "parserId": "maagal",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1279,7 +1033,7 @@
         "url": "https://anshlag.co.il/performer/theatr-eto/",
         "status": "parsed",
         "parserId": "eto",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1293,7 +1047,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/86668",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 1,
         "excludedLanguageCount": 0,
         "linkCount": 0
@@ -1302,7 +1056,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/86706",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 6,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1314,7 +1068,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87000",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 7,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1326,7 +1080,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87180",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 2,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1338,7 +1092,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87475",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 1,
         "excludedLanguageCount": 0,
         "linkCount": 0
@@ -1347,7 +1101,7 @@
         "url": "https://ru.kupatbravo.co.il/announce/87000",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 7,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1359,7 +1113,7 @@
         "url": "https://ru.kupatbravo.co.il/announce/86706",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 6,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1371,24 +1125,12 @@
         "url": "https://ru.kupatbravo.co.il/announce/87180",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 2,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
           "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": true,
-        "eventCount": 5,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -1401,39 +1143,15 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 4 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 3 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
         "url": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
         "status": "parsed",
         "parserId": "tuz-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 4,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": true,
-        "eventCount": 5,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": true,
-        "eventCount": 6,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -1444,7 +1162,7 @@
         "url": "https://www.ticketsme.co.il/he/vivaldi-the-four-seasons-09-jan-2027/eid/66",
         "status": "parsed",
         "parserId": "tickets-me-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1456,7 +1174,7 @@
         "url": "https://www.ticketsme.co.il/he/9-abba-vs-the-betles/eid/84",
         "status": "parsed",
         "parserId": "tickets-me-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1468,7 +1186,7 @@
         "url": "https://www.ticketsme.co.il/he/live-13-feb-2027/eid/83",
         "status": "parsed",
         "parserId": "tickets-me-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 1,
         "excludedLanguageCount": 0,
         "linkCount": 0
@@ -1477,7 +1195,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87428",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1489,7 +1207,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87429",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1501,7 +1219,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87391",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1513,7 +1231,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87392",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1525,7 +1243,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87274",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1538,7 +1256,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87185",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1550,7 +1268,7 @@
         "url": "https://israelshowru.kassa.co.il/announce/87187",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": true,
+        "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
@@ -1559,8 +1277,18 @@
         ]
       }
     ],
-    "unsupportedPageCount": 351,
+    "unsupportedPageCount": 273,
     "failedPages": [
+      {
+        "url": "https://afishamira.com/city/israel/",
+        "status": "failed",
+        "error": "HTTP 403; redirects and retries are disabled"
+      },
+      {
+        "url": "https://www.haifa.events/ru/",
+        "status": "failed",
+        "error": "HTTP 403; redirects and retries are disabled"
+      },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
         "status": "failed",
@@ -1568,6 +1296,21 @@
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/85141",
+        "status": "failed",
+        "error": "HTTP 301; redirects and retries are disabled"
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
+        "status": "failed",
+        "error": "HTTP 301; redirects and retries are disabled"
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+        "status": "failed",
+        "error": "HTTP 301; redirects and retries are disabled"
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
         "status": "failed",
         "error": "HTTP 301; redirects and retries are disabled"
       },
