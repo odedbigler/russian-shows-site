@@ -38,7 +38,7 @@
     .criteria span { display:flex; align-items:center; gap:7px; }
     main { padding-top:26px !important; padding-bottom:64px !important; }
     .filters { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
-    .title-filter { grid-column:1/-1; }
+    .title-filter,.type-filter { grid-column:1/-1; }
     label { display:block; font-size:12px; font-weight:500; }
     input,select { display:block; width:100%; height:44px; margin-top:7px; border:1px solid #cfd8d2; border-radius:5px; background:#fff; padding:0 12px; }
     input::placeholder { color:#8a918d; }
@@ -108,13 +108,14 @@
     <section class="filters" aria-label="Фильтры">
       <label>Город<select id="city"><option value="">Все города</option></select></label>
       <label>Месяц<select id="month"><option value="">Все даты</option></select></label>
-      <label class="title-filter">Название<div class="search-field"><i data-lucide="search" aria-hidden="true"></i><input id="search" type="search" placeholder="Найти спектакль" autocomplete="off"></div></label>
+      <label class="title-filter">Название<div class="search-field"><i data-lucide="search" aria-hidden="true"></i><input id="search" type="search" placeholder="Найти событие" autocomplete="off"></div></label>
+      <label class="type-filter">Тип<select id="kind"><option value="">Все события</option><option value="show">Спектакли и шоу</option><option value="cartoon">Мультфильмы на русском</option></select></label>
     </section>
     <div class="result-bar">
       <div><span id="count" role="status" aria-live="polite">Загрузка афиши…</span><p class="last-update">Последнее обновление: <time id="updated">загрузка…</time></p></div>
       <div class="actions"><button class="text-button" id="reset" hidden>Сбросить</button><label class="sort"><i data-lucide="arrow-down-wide-narrow" aria-hidden="true"></i><select id="sort" aria-label="Сортировка"><option value="date">По ближайшей дате</option><option value="name">По названию</option></select></label></div>
     </div>
-    <section id="shows" aria-label="Спектакли" aria-busy="true"></section>
+    <section id="shows" aria-label="События" aria-busy="true"></section>
     <div id="empty" class="empty" hidden><h2>Ничего не найдено</h2><button class="text-button" id="empty-reset">Сбросить фильтры</button></div>
     <div id="error" class="empty" hidden><h2>Не удалось загрузить афишу</h2><p>Файл отчёта недоступен или имеет неверный формат.</p><button class="text-button" id="retry">Повторить</button></div>
     <p id="coverage" class="status"></p>
@@ -174,7 +175,9 @@
       const place = node("span");
       place.append(icon("map-pin"), document.createTextNode(cities.length <= 2 ? cities.join(" · ") : `${cities[0]} + ещё ${cities.length - 1}`));
       const count = node("span", "", `${rows.length} ${plural(rows.length, {one:"сеанс",few:"сеанса",many:"сеансов",other:"сеанса"})}`);
-      meta.append(place, count);
+      const category = node("span", "event-kind");
+      category.append(icon(show.kind === "cartoon" ? "film" : "ticket"), document.createTextNode(show.kind === "cartoon" ? "Мультфильм на русском" : "Спектакль / шоу"));
+      meta.append(category, place, count);
       description.append(heading, meta);
       const chevron = node("span", "chevron");
       chevron.append(icon("chevron-down"));
@@ -211,20 +214,23 @@
       const query = element("search").value.trim().toLocaleLowerCase("ru");
       const city = element("city").value;
       const month = element("month").value;
+      const kind = element("kind").value;
       const matching = data.flatMap(show => {
+        if (kind && (show.kind ?? "show") !== kind) return [];
         if (!show.name.toLocaleLowerCase("ru").includes(query)) return [];
         const rows = schedules(show.performances.filter(item => (!city || cityName(item.city) === city) && (!month || item.date.startsWith(month))));
         return rows.length ? [{show, rows}] : [];
       });
       matching.sort((left, right) => element("sort").value === "name" ? left.show.name.localeCompare(right.show.name, "ru") : left.rows[0].date.localeCompare(right.rows[0].date) || (left.rows[0].time ?? "").localeCompare(right.rows[0].time ?? "") || left.show.name.localeCompare(right.show.name, "ru"));
       element("shows").replaceChildren(...matching.map(({show, rows}) => showView(show, rows)));
-      element("count").textContent = `${matching.length} ${plural(matching.length, {one:"постановка",few:"постановки",many:"постановок",other:"постановки"})}`;
-      element("reset").hidden = !query && !city && !month;
+      element("count").textContent = `${matching.length} ${plural(matching.length, {one:"событие",few:"события",many:"событий",other:"события"})}`;
+      element("reset").hidden = !query && !city && !month && !kind;
       element("empty").hidden = matching.length > 0;
       window.lucide?.createIcons();
     }
     function reset() {
       element("search").value = ""; element("city").value = ""; element("month").value = "";
+      element("kind").value = "";
       render();
     }
     async function load() {
@@ -237,7 +243,12 @@
         if (!response.ok) throw new Error("Report unavailable");
         const report = await response.json();
         if (!Array.isArray(report.shows) || report.shows.some(show => typeof show.name !== "string" || !Array.isArray(show.performances) || show.performances.some(item => typeof item.city !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(item.date) || !Number.isFinite(dateValue(item.date).getTime())))) throw new Error("Invalid report");
-        data = report.shows;
+        data = report.shows.flatMap(show => {
+          const kind = show.kind ?? "show";
+          if (!["show", "cartoon"].includes(kind)) return [];
+          const performances = kind === "cartoon" ? show.performances.filter(item => item.language === "ru" && item.audioLanguage === "ru") : show.performances;
+          return performances.length ? [{ ...show, kind, performances }] : [];
+        });
         const performances = data.flatMap(show => show.performances);
         element("city").replaceChildren(new Option("Все города", ""), ...[...new Set(performances.map(item => cityName(item.city)))].sort((left,right) => left.localeCompare(right,"ru")).map(city => new Option(city,city)));
         element("month").replaceChildren(new Option("Все даты", ""), ...[...new Set(performances.map(item => item.date.slice(0,7)))].sort().map(month => new Option(monthFormat.format(dateValue(month + "-01")),month)));
@@ -257,7 +268,7 @@
       } finally { element("shows").setAttribute("aria-busy", "false"); }
     }
     element("search").addEventListener("input", render);
-    for (const id of ["city", "month", "sort"]) element(id).addEventListener("change", render);
+    for (const id of ["city", "month", "kind", "sort"]) element(id).addEventListener("change", render);
     element("reset").addEventListener("click", reset);
     element("empty-reset").addEventListener("click", reset);
     element("retry").addEventListener("click", load);

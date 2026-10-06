@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:43:46.098Z",
+  "generatedAt": "2026-10-06T09:24:23.612Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -22,6 +22,7 @@
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
+      "kind": "show",
       "location": [
         "2026-11-21 in Тель-Авив-Яффо"
       ],
@@ -54,6 +55,7 @@
     },
     {
       "name": "Где же Гого? — Театр Рути Тамир",
+      "kind": "show",
       "location": [
         "2026-11-14 in Тель-Авив-Яффо"
       ],
@@ -86,6 +88,7 @@
     },
     {
       "name": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
+      "kind": "show",
       "location": [
         "2026-12-02 in Герцлия",
         "2026-12-05 in Нетания",
@@ -268,6 +271,7 @@
     },
     {
       "name": "Новогодние приключения Бабы Яги — театр Zero",
+      "kind": "show",
       "location": [
         "2026-12-24 in Нетания",
         "2026-12-26 in Ришон ле-Цион",
@@ -425,6 +429,7 @@
     },
     {
       "name": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+      "kind": "show",
       "location": [
         "2026-12-18 in Ришон ле-Цион",
         "2026-12-26 in Ашдод",
@@ -480,6 +485,7 @@
     },
     {
       "name": "Одолеем Бармалея — спектакль театра ЭТО",
+      "kind": "show",
       "location": [
         "2026-11-20 in Петах-Тиква",
         "2026-11-28 in Ашдод"
@@ -537,6 +543,7 @@
     },
     {
       "name": "Послушайте, я здесь!",
+      "kind": "show",
       "location": [
         "2026-10-22 in Netanya"
       ],
@@ -557,6 +564,7 @@
     },
     {
       "name": "Премьера 2026. Снежная Королева",
+      "kind": "show",
       "location": [
         "2026-12-19 in Холон",
         "2026-12-25 in Нетания",
@@ -636,6 +644,7 @@
     },
     {
       "name": "Приключения БУРАТИНО",
+      "kind": "show",
       "location": [
         "2026-10-09 in Нетания",
         "2026-10-10 in Ришон ле-Цион",
@@ -702,6 +711,7 @@
     },
     {
       "name": "Солнечная История — Театр Давай",
+      "kind": "show",
       "location": [
         "2026-11-04 in Ганей Тиква",
         "2026-11-07 in Ришон ле-Цион",
@@ -774,6 +784,7 @@
     },
     {
       "name": "Три Кота — Новый Спектакль — Карта сокровищ",
+      "kind": "show",
       "location": [
         "2026-12-17 in Ашдод",
         "2026-12-19 in Ришон ле-Цион",
@@ -845,6 +856,7 @@
     },
     {
       "name": "Тюлька",
+      "kind": "show",
       "location": [
         "2026-10-09 in Petah Tikva",
         "2026-10-10 in Ra'anana",
@@ -904,6 +916,7 @@
     },
     {
       "name": "Фести LIVE: Подарки Деда Мороза.",
+      "kind": "show",
       "location": [
         "2026-12-19 in Ашдод",
         "2026-12-20 in Ришон ле-Цион",
@@ -971,6 +984,7 @@
     },
     {
       "name": "בת דודה של",
+      "kind": "show",
       "location": [
         "2026-10-10 in Tel Aviv"
       ],
@@ -990,6 +1004,7 @@
     },
     {
       "name": "דבר עברית - הצגת ילדים",
+      "kind": "show",
       "location": [
         "2026-10-10 in Tel Aviv"
       ],
@@ -1009,6 +1024,7 @@
     },
     {
       "name": "הדייג ודג הזהב",
+      "kind": "show",
       "location": [
         "2026-10-17 in Tel Aviv"
       ],
@@ -1028,6 +1044,7 @@
     },
     {
       "name": "הלל",
+      "kind": "show",
       "location": [
         "2026-10-17 in Tel Aviv"
       ],
@@ -1047,6 +1064,7 @@
     },
     {
       "name": "ואני שר",
+      "kind": "show",
       "location": [
         "2026-10-17 in Tel Aviv"
       ],
@@ -1066,6 +1084,7 @@
     },
     {
       "name": "מחסן השטוזים של דתיה",
+      "kind": "show",
       "location": [
         "2026-10-10 in Tel Aviv"
       ],
@@ -1085,6 +1104,7 @@
     },
     {
       "name": "מתנה מיוחדת במינה",
+      "kind": "show",
       "location": [
         "2026-10-17 in Tel Aviv"
       ],
@@ -1104,6 +1124,7 @@
     },
     {
       "name": "פסטי LIVE קידס: צלילי הקסם",
+      "kind": "show",
       "location": [
         "2027-02-13 in ראשון לציון"
       ],
@@ -1123,6 +1144,7 @@
     },
     {
       "name": "צוציקים - הצגה לפעוטות",
+      "kind": "show",
       "location": [
         "2026-10-24 in Tel Aviv"
       ],
@@ -1143,6 +1165,20 @@
   ],
   "coverage": {
     "sourcePages": [
+      {
+        "url": "https://kids-cinema.org.il/event_cat/movies/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 9
+      },
+      {
+        "url": "https://kinorai.co.il/films/",
+        "status": "failed",
+        "error": "HTTP 403; no retry or additional redirect attempted"
+      },
       {
         "url": "https://israelshow.co.il/ru/forkids.asp",
         "status": "parsed",
@@ -1223,7 +1259,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 10,
+        "linkCount": 11,
         "warnings": [
           "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
           "Excluded 8 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
@@ -1415,6 +1451,87 @@
       }
     ],
     "detailPages": [
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%90%d7%a1%d7%a4%d7%9f-%d7%94%d7%9e%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%98%d7%a4%d7%99%d7%98%d7%99-%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%94-%d7%91%d7%9e%d7%93%d7%91%d7%a8-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%92%d7%99%d7%9c/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%9b%d7%90%d7%9f-%d7%97%d7%99%d7%a0%d7%95%d7%9b%d7%99%d7%aa-%d7%94%d7%a1%d7%93%d7%a8%d7%aa%d7%99%d7%99%d7%9d-%d7%a2%d7%95%d7%a0%d7%94-2-%d7%92%d7%99%d7%9c/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%95%d7%95%d7%a0%d7%93%d7%a8-%d7%93%d7%95%d7%92/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%a9%d7%95%d7%9f-%d7%9b%d7%91%d7%a9%d7%95%d7%9f-%d7%a2%d7%a3-%d7%a2%d7%9c-%d7%94%d7%97%d7%9c%d7%9c/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%99%d7%9c%d7%93-%d7%94%d7%9e%d7%93%d7%91%d7%a8-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%92%d7%99%d7%9c%d7%99-7/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%91%d7%93%d7%99%d7%97%d7%94-%d7%a9%d7%9c-%d7%9e%d7%9e%d7%9c%d7%9b%d7%94-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%a6%d7%b3%d7%99%d7%a7%d7%9f-%d7%9e%d7%90%d7%a1%d7%98%d7%a8-%d7%9e%d7%93%d7%95%d7%91%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%9c%d7%9b%d7%9c-%d7%94%d7%92%d7%99%d7%9c%d7%99%d7%9d/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://kids-cinema.org.il/events/%d7%9e%d7%a9%d7%97%d7%a7%d7%99-%d7%9e%d7%97%d7%a9%d7%91-%d7%91%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%9e%d7%a4%d7%92%d7%a9-%d7%9e%d7%94%d7%a1%d7%a8%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%98%d7%9c-2/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
       {
         "url": "https://israelshowru.kassa.co.il/announce/86668",
         "status": "parsed",
@@ -1751,8 +1868,13 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 285,
+    "unsupportedPageCount": 286,
     "failedPages": [
+      {
+        "url": "https://kinorai.co.il/films/",
+        "status": "failed",
+        "error": "HTTP 403; no retry or additional redirect attempted"
+      },
       {
         "url": "https://afishamira.com/city/israel/",
         "status": "failed",
