@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:26:15.657Z",
+  "generatedAt": "2026-10-06T07:43:46.098Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -1374,15 +1374,8 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "parsed",
-        "parserId": "rusevents",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 3,
-        "warnings": [
-          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
-        ]
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -1758,7 +1751,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 288,
+    "unsupportedPageCount": 285,
     "failedPages": [
       {
         "url": "https://afishamira.com/city/israel/",
@@ -1769,6 +1762,11 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
+      },
+      {
+        "url": "https://rusevents.com/israel/haifa/events/",
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
