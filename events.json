@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:08:19.455Z",
+  "generatedAt": "2026-10-06T07:26:15.657Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -1261,7 +1261,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 54,
+        "linkCount": 55,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1309,7 +1309,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 23,
         "warnings": [
           "Dates on directory cards are publication dates, not performance dates."
         ]
@@ -1374,8 +1374,15 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
+        "status": "parsed",
+        "parserId": "rusevents",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
+        ]
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -1751,7 +1758,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 270,
+    "unsupportedPageCount": 288,
     "failedPages": [
       {
         "url": "https://afishamira.com/city/israel/",
@@ -1762,11 +1769,6 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
-      },
-      {
-        "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",

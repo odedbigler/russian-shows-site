@@ -66,6 +66,7 @@
     .schedule-row { display:grid; grid-template-columns:135px minmax(100px,1fr) minmax(150px,1fr); gap:12px; padding:13px 0; border-top:1px solid var(--line); align-items:start; }
     .when strong { font-weight:500; display:block; }
     .when small { color:var(--muted); }
+    .when .weekday { display:block; margin-top:2px; }
     .city { font-weight:500; }
     .facts { font-size:11px; color:var(--muted); margin-top:3px; }
     .ticket-links { display:flex; align-items:flex-end; flex-direction:column; gap:7px; }
@@ -127,6 +128,7 @@
     ]);
     const cityName = city => cityNames.get(city) ?? city;
     const dateFormat = new Intl.DateTimeFormat("ru-RU", { day:"numeric", month:"long", timeZone:"UTC" });
+    const weekdayFormat = new Intl.DateTimeFormat("ru-RU", { weekday:"long", timeZone:"UTC" });
     const monthFormat = new Intl.DateTimeFormat("ru-RU", { month:"long", year:"numeric", timeZone:"UTC" });
     const shortMonth = new Intl.DateTimeFormat("ru-RU", { month:"short", timeZone:"UTC" });
     const dateValue = date => new Date(date + "T12:00:00Z");
@@ -181,6 +183,7 @@
         const line = node("div", "schedule-row");
         const when = node("div", "when");
         when.append(node("strong", "", dateFormat.format(dateValue(row.date))), node("small", "", `${row.date.slice(0, 4)} · ${row.time ?? "Время не указано"}`));
+        when.append(node("small", "weekday", weekdayFormat.format(dateValue(row.date))));
         const where = node("div");
         where.append(node("div", "city", row.city));
         const ages = [...new Set(row.entries.map(item => item.recommendedAge?.trim() || "Возраст не указан"))];
