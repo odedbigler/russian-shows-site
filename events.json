@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T11:21:00.795Z",
+  "generatedAt": "2026-10-08T11:26:47.730Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -1223,7 +1223,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 5,
+        "linkCount": 6,
         "warnings": [
           "Tilda production cards require detail pages for reliable dates and cities."
         ]
@@ -1285,7 +1285,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 51,
+        "linkCount": 53,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1297,7 +1297,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 55,
+        "linkCount": 57,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1309,7 +1309,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 106,
+        "linkCount": 107,
         "warnings": [
           "Tour cards require production details to associate occurrences with cities."
         ]
@@ -1410,15 +1410,8 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "parsed",
-        "parserId": "rusevents",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 3,
-        "warnings": [
-          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
-        ]
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -1875,7 +1868,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 289,
+    "unsupportedPageCount": 292,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
@@ -1891,6 +1884,11 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
+      },
+      {
+        "url": "https://rusevents.com/israel/haifa/events/",
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
