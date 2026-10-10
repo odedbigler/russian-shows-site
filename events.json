@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T11:26:47.730Z",
+  "generatedAt": "2026-10-10T10:40:25.057Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -18,7 +18,7 @@
     "unknownAge": "included"
   },
   "showCount": 22,
-  "performanceCount": 78,
+  "performanceCount": 76,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -439,6 +439,17 @@
       "performances": [
         {
           "date": "2026-12-18",
+          "time": "12:00",
+          "startsAt": "2026-12-18T10:00:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-18-dec-2026-12/eid/476",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
+          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+          "id": "tuz-tickets-476"
+        },
+        {
+          "date": "2026-12-18",
           "time": "14:00",
           "startsAt": "2026-12-18T12:00:00Z",
           "city": "Ришон ле-Цион",
@@ -646,23 +657,11 @@
       "name": "Приключения БУРАТИНО",
       "kind": "show",
       "location": [
-        "2026-10-09 in Нетания",
         "2026-10-10 in Ришон ле-Цион",
         "2026-10-24 in Ашдод",
         "2026-11-14 in Петах Тиква"
       ],
       "performances": [
-        {
-          "date": "2026-10-09",
-          "time": "14:00",
-          "startsAt": "2026-10-09T11:00:00Z",
-          "city": "Нетания",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-09-oct-2026/eid/438",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-438"
-        },
         {
           "date": "2026-10-10",
           "time": "11:00",
@@ -858,36 +857,10 @@
       "name": "Тюлька",
       "kind": "show",
       "location": [
-        "2026-10-09 in Petah Tikva",
-        "2026-10-10 in Ra'anana",
         "2026-10-17 in Ashdod",
         "2026-10-24 in Tel Aviv-Yafo"
       ],
       "performances": [
-        {
-          "date": "2026-10-09",
-          "time": "14:00",
-          "startsAt": "2026-10-09T11:00:00.000Z",
-          "city": "Petah Tikva",
-          "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/spektakl-tyulka-v-petakh-tikve",
-          "sourceUrl": "https://www.blackowlhouse.com/main",
-          "originalTitle": "Спектакль «Тюлька» в Петах-Тикве",
-          "id": "black-owl-house-d0066794-3e40-4769-b0cf-0037d5ee1b59",
-          "recommendedAge": "3-10"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "11:00",
-          "startsAt": "2026-10-10T08:00:00.000Z",
-          "city": "Ra'anana",
-          "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/spektakl-tyulka-v-raanane-1",
-          "sourceUrl": "https://www.blackowlhouse.com/main",
-          "originalTitle": "Спектакль «Тюлька» в Раанане",
-          "id": "black-owl-house-50a91fa3-e07e-41ba-ab3c-34ba2f2ae5c3",
-          "recommendedAge": "3-10"
-        },
         {
           "date": "2026-10-17",
           "time": "11:00",
@@ -1172,7 +1145,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9
+        "linkCount": 7
       },
       {
         "url": "https://kinorai.co.il/films/",
@@ -1196,7 +1169,7 @@
         "status": "parsed",
         "parserId": "black-owl-house",
         "fromCache": false,
-        "eventCount": 5,
+        "eventCount": 3,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -1285,7 +1258,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 53,
+        "linkCount": 55,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1297,7 +1270,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 57,
+        "linkCount": 58,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1309,7 +1282,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 107,
+        "linkCount": 109,
         "warnings": [
           "Tour cards require production details to associate occurrences with cities."
         ]
@@ -1333,7 +1306,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 7,
         "warnings": [
           "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
         ]
@@ -1345,7 +1318,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 23,
+        "linkCount": 24,
         "warnings": [
           "Dates on directory cards are publication dates, not performance dates."
         ]
@@ -1362,7 +1335,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 5,
+        "linkCount": 4,
         "warnings": [
           "Cards provide a venue name but no city; detail pages are needed. Hebrew interface text is not a performance-language label."
         ]
@@ -1420,7 +1393,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 8,
         "warnings": [
           "Deferred 5 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -1451,24 +1424,6 @@
       }
     ],
     "detailPages": [
-      {
-        "url": "https://kids-cinema.org.il/events/%d7%90%d7%a1%d7%a4%d7%9f-%d7%94%d7%9e%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/",
-        "status": "parsed",
-        "parserId": "kids-cinema",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
-      {
-        "url": "https://kids-cinema.org.il/events/%d7%98%d7%a4%d7%99%d7%98%d7%99-%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%94-%d7%91%d7%9e%d7%93%d7%91%d7%a8-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%92%d7%99%d7%9c/",
-        "status": "parsed",
-        "parserId": "kids-cinema",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
       {
         "url": "https://kids-cinema.org.il/events/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%9b%d7%90%d7%9f-%d7%97%d7%99%d7%a0%d7%95%d7%9b%d7%99%d7%aa-%d7%94%d7%a1%d7%93%d7%a8%d7%aa%d7%99%d7%99%d7%9d-%d7%a2%d7%95%d7%a0%d7%94-2-%d7%92%d7%99%d7%9c/",
         "status": "parsed",
@@ -1663,7 +1618,7 @@
         "status": "parsed",
         "parserId": "tuz-detail",
         "fromCache": false,
-        "eventCount": 5,
+        "eventCount": 4,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -1688,7 +1643,7 @@
         "status": "parsed",
         "parserId": "tuz-detail",
         "fromCache": false,
-        "eventCount": 4,
+        "eventCount": 5,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -1814,7 +1769,7 @@
         ]
       },
       {
-        "url": "https://israelshowru.kassa.co.il/announce/87185",
+        "url": "https://israelshowru.kassa.co.il/announce/87187",
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
@@ -1826,18 +1781,6 @@
         ]
       },
       {
-        "url": "https://israelshowru.kassa.co.il/announce/87187",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 2 events starting after 19:00 in Asia/Jerusalem."
-        ]
-      },
-      {
         "url": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -1846,7 +1789,7 @@
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -1868,7 +1811,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 292,
+    "unsupportedPageCount": 295,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
