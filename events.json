@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:40:25.057Z",
+  "generatedAt": "2026-10-12T12:07:24.588Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -18,7 +18,7 @@
     "unknownAge": "included"
   },
   "showCount": 22,
-  "performanceCount": 76,
+  "performanceCount": 74,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -657,33 +657,10 @@
       "name": "Приключения БУРАТИНО",
       "kind": "show",
       "location": [
-        "2026-10-10 in Ришон ле-Цион",
         "2026-10-24 in Ашдод",
         "2026-11-14 in Петах Тиква"
       ],
       "performances": [
-        {
-          "date": "2026-10-10",
-          "time": "11:00",
-          "startsAt": "2026-10-10T08:00:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-10-oct-2026/eid/435",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-435"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "13:30",
-          "startsAt": "2026-10-10T10:30:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-10-oct-13-2026/eid/471",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
-          "originalTitle": "Приключения БУРАТИНО",
-          "id": "tuz-tickets-471"
-        },
         {
           "date": "2026-10-24",
           "time": "11:00",
@@ -956,42 +933,22 @@
       ]
     },
     {
-      "name": "בת דודה של",
+      "name": "בן המלך והעני",
       "kind": "show",
       "location": [
-        "2026-10-10 in Tel Aviv"
+        "2026-10-24 in Tel Aviv"
       ],
       "performances": [
         {
-          "date": "2026-10-10",
-          "time": "11:00",
-          "startsAt": "2026-10-10T08:00:00Z",
-          "city": "Tel Aviv",
-          "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1848/%D7%91%D7%AA_%D7%93%D7%95%D7%93%D7%94_%D7%A9%D7%9C",
-          "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "בת דודה של",
-          "id": "orna-porat-1d4e3109f7b9aa42ae9d"
-        }
-      ]
-    },
-    {
-      "name": "דבר עברית - הצגת ילדים",
-      "kind": "show",
-      "location": [
-        "2026-10-10 in Tel Aviv"
-      ],
-      "performances": [
-        {
-          "date": "2026-10-10",
+          "date": "2026-10-24",
           "time": "10:30",
-          "startsAt": "2026-10-10T07:30:00Z",
+          "startsAt": "2026-10-24T07:30:00Z",
           "city": "Tel Aviv",
           "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/698/%D7%93%D7%91%D7%A8_%D7%A2%D7%91%D7%A8%D7%99%D7%AA_-_%D7%94%D7%A6%D7%92%D7%AA_%D7%99%D7%9C%D7%93%D7%99%D7%9D",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1771/%D7%91%D7%9F_%D7%94%D7%9E%D7%9C%D7%9A_%D7%95%D7%94%D7%A2%D7%A0%D7%99",
           "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "דבר עברית - הצגת ילדים",
-          "id": "orna-porat-519a506bc2be0f617a35"
+          "originalTitle": "בן המלך והעני",
+          "id": "orna-porat-2353d84264a2a756eceb"
         }
       ]
     },
@@ -1012,6 +969,26 @@
           "sourceUrl": "https://www.porat-theater.co.il/",
           "originalTitle": "הדייג ודג הזהב",
           "id": "orna-porat-8d232ae954e91f5d1b2a"
+        }
+      ]
+    },
+    {
+      "name": "היפה והחיה",
+      "kind": "show",
+      "location": [
+        "2026-10-24 in Tel Aviv"
+      ],
+      "performances": [
+        {
+          "date": "2026-10-24",
+          "time": "10:30",
+          "startsAt": "2026-10-24T07:30:00Z",
+          "city": "Tel Aviv",
+          "language": "und",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1369/%D7%94%D7%99%D7%A4%D7%94_%D7%95%D7%94%D7%97%D7%99%D7%94",
+          "sourceUrl": "https://www.porat-theater.co.il/",
+          "originalTitle": "היפה והחיה",
+          "id": "orna-porat-6bcbecf482b5e75ffd90"
         }
       ]
     },
@@ -1056,22 +1033,22 @@
       ]
     },
     {
-      "name": "מחסן השטוזים של דתיה",
+      "name": "ליצן החצר",
       "kind": "show",
       "location": [
-        "2026-10-10 in Tel Aviv"
+        "2026-10-24 in Tel Aviv"
       ],
       "performances": [
         {
-          "date": "2026-10-10",
+          "date": "2026-10-24",
           "time": "10:00",
-          "startsAt": "2026-10-10T07:00:00Z",
+          "startsAt": "2026-10-24T07:00:00Z",
           "city": "Tel Aviv",
           "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/427/%D7%9E%D7%97%D7%A1%D7%9F_%D7%94%D7%A9%D7%98%D7%95%D7%96%D7%99%D7%9D_%D7%A9%D7%9C_%D7%93%D7%AA%D7%99%D7%94",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/107/%D7%9C%D7%99%D7%A6%D7%9F_%D7%94%D7%97%D7%A6%D7%A8",
           "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "מחסן השטוזים של דתיה",
-          "id": "orna-porat-97297eaea0eef9e8d070"
+          "originalTitle": "ליצן החצר",
+          "id": "orna-porat-06a752fa1012dd3dc4d4"
         }
       ]
     },
@@ -1196,7 +1173,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 5,
         "warnings": [
           "Tilda production cards require detail pages for reliable dates and cities."
         ]
@@ -1232,10 +1209,10 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 11,
+        "linkCount": 9,
         "warnings": [
           "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
-          "Excluded 8 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
           "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
@@ -1258,7 +1235,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 55,
+        "linkCount": 65,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1270,7 +1247,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 58,
+        "linkCount": 60,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1306,7 +1283,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 7,
+        "linkCount": 6,
         "warnings": [
           "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
         ]
@@ -1618,7 +1595,7 @@
         "status": "parsed",
         "parserId": "tuz-detail",
         "fromCache": false,
-        "eventCount": 4,
+        "eventCount": 2,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -1651,18 +1628,6 @@
         ]
       },
       {
-        "url": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": false,
-        "eventCount": 5,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
         "url": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
         "status": "parsed",
         "parserId": "tuz-detail",
@@ -1672,6 +1637,18 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": false,
+        "eventCount": 5,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -1811,7 +1788,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 295,
+    "unsupportedPageCount": 303,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
