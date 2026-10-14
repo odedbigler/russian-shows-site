@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:07:24.588Z",
+  "generatedAt": "2026-10-14T09:35:28.855Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 22,
-  "performanceCount": 74,
+  "showCount": 23,
+  "performanceCount": 78,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -50,6 +50,64 @@
           "originalTitle": "Апчхи! — Театр Давай",
           "id": "kassa-detail-01dd180462cdbff99853",
           "recommendedAge": "3-7"
+        }
+      ]
+    },
+    {
+      "name": "В гостях у Мороза",
+      "kind": "show",
+      "location": [
+        "2026-12-24 in Ашдод",
+        "2026-12-27 in Ришон ле-Цион"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-24",
+          "time": "18:00",
+          "startsAt": "2026-12-24T18:00+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213605",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87607",
+          "originalTitle": "В гостях у Мороза",
+          "id": "kassa-detail-bb934a1fd217a5913f48",
+          "recommendedAge": "5-12"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "18:00",
+          "startsAt": "2026-12-24T18:00+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213605",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87607",
+          "originalTitle": "В гостях у Мороза",
+          "id": "kassa-detail-2b483c8c6fd65b2c05e9",
+          "recommendedAge": "5-12"
+        },
+        {
+          "date": "2026-12-27",
+          "time": "18:00",
+          "startsAt": "2026-12-27T18:00+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213606",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87607",
+          "originalTitle": "В гостях у Мороза",
+          "id": "kassa-detail-761f8ee98a97e913f23e",
+          "recommendedAge": "5-12"
+        },
+        {
+          "date": "2026-12-27",
+          "time": "18:00",
+          "startsAt": "2026-12-27T18:00+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213606",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87607",
+          "originalTitle": "В гостях у Мороза",
+          "id": "kassa-detail-88013215826acf86d793",
+          "recommendedAge": "5-12"
         }
       ]
     },
@@ -1081,14 +1139,14 @@
       "performances": [
         {
           "date": "2027-02-13",
-          "time": "11:00",
-          "startsAt": "2027-02-13T09:00:00Z",
+          "time": "10:00",
+          "startsAt": "2027-02-13T08:00:00Z",
           "city": "ראשון לציון",
           "language": "und",
-          "ticketUrl": "https://www.ticketsme.co.il/he/live-13-feb-2027/eid/83",
-          "sourceUrl": "https://www.ticketsme.co.il/he/live-13-feb-2027/eid/83",
+          "ticketUrl": "https://www.ticketsme.co.il/he/live-festi-13-feb-2027/eid/85",
+          "sourceUrl": "https://www.ticketsme.co.il/he/live-festi-13-feb-2027/eid/85",
           "originalTitle": "פסטי LIVE קידס: צלילי הקסם",
-          "id": "tickets-me-e7dfa4c04b38d025b26f"
+          "id": "tickets-me-918e5421c84739ea45fe"
         }
       ]
     },
@@ -1136,7 +1194,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 7,
+        "linkCount": 8,
         "warnings": [
           "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -1197,7 +1255,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 5,
+        "linkCount": 6,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1209,10 +1267,10 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 8,
         "warnings": [
           "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
-          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
           "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
@@ -1235,7 +1293,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 65,
+        "linkCount": 69,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1247,7 +1305,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 60,
+        "linkCount": 62,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1283,7 +1341,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 5,
         "warnings": [
           "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
         ]
@@ -1348,7 +1406,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 8,
+        "linkCount": 7,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1519,6 +1577,15 @@
         "linkCount": 0
       },
       {
+        "url": "https://israelshowru.kassa.co.il/announce/87607",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/list/section:41/?p=2",
         "status": "parsed",
         "parserId": "bravo",
@@ -1537,7 +1604,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 4,
+        "linkCount": 5,
         "warnings": [
           "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -1628,18 +1695,6 @@
         ]
       },
       {
-        "url": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": false,
-        "eventCount": 6,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
         "url": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
         "status": "parsed",
         "parserId": "tuz-detail",
@@ -1649,6 +1704,18 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": false,
+        "eventCount": 6,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -1664,19 +1731,7 @@
         ]
       },
       {
-        "url": "https://www.ticketsme.co.il/he/9-abba-vs-the-betles/eid/84",
-        "status": "parsed",
-        "parserId": "tickets-me-detail",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
-        ]
-      },
-      {
-        "url": "https://www.ticketsme.co.il/he/live-13-feb-2027/eid/83",
+        "url": "https://www.ticketsme.co.il/he/live-festi-13-feb-2027/eid/85",
         "status": "parsed",
         "parserId": "tickets-me-detail",
         "fromCache": false,
@@ -1786,9 +1841,18 @@
         "eventCount": 1,
         "excludedLanguageCount": 0,
         "linkCount": 0
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87607",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 303,
+    "unsupportedPageCount": 308,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
