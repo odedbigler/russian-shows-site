@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:35:28.855Z",
+  "generatedAt": "2026-10-16T09:05:47.200Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -1180,7 +1180,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 7
+        "linkCount": 6
       },
       {
         "url": "https://kinorai.co.il/films/",
@@ -1208,7 +1208,7 @@
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
           "Excluded 8 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
@@ -1267,10 +1267,10 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 8,
+        "linkCount": 7,
         "warnings": [
           "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
-          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
           "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
@@ -1317,7 +1317,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 109,
+        "linkCount": 137,
         "warnings": [
           "Tour cards require production details to associate occurrences with cities."
         ]
@@ -1353,7 +1353,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 24,
+        "linkCount": 8,
         "warnings": [
           "Dates on directory cards are publication dates, not performance dates."
         ]
@@ -1406,7 +1406,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 7,
+        "linkCount": 8,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1459,15 +1459,6 @@
       }
     ],
     "detailPages": [
-      {
-        "url": "https://kids-cinema.org.il/events/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%9b%d7%90%d7%9f-%d7%97%d7%99%d7%a0%d7%95%d7%9b%d7%99%d7%aa-%d7%94%d7%a1%d7%93%d7%a8%d7%aa%d7%99%d7%99%d7%9d-%d7%a2%d7%95%d7%a0%d7%94-2-%d7%92%d7%99%d7%9c/",
-        "status": "parsed",
-        "parserId": "kids-cinema",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
       {
         "url": "https://kids-cinema.org.il/events/%d7%95%d7%95%d7%a0%d7%93%d7%a8-%d7%93%d7%95%d7%92/",
         "status": "parsed",
@@ -1731,6 +1722,18 @@
         ]
       },
       {
+        "url": "https://www.ticketsme.co.il/he/live-05-feb-2027/eid/86",
+        "status": "parsed",
+        "parserId": "tickets-me-detail",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
         "url": "https://www.ticketsme.co.il/he/live-festi-13-feb-2027/eid/85",
         "status": "parsed",
         "parserId": "tickets-me-detail",
@@ -1852,7 +1855,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 308,
+    "unsupportedPageCount": 319,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
