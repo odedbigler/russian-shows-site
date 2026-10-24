@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:28:45.346Z",
+  "generatedAt": "2026-10-24T08:56:19.659Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 27,
-  "performanceCount": 102,
+  "showCount": 29,
+  "performanceCount": 125,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -510,42 +510,62 @@
       ]
     },
     {
-      "name": "Новогодний бэби-спектакль «сНежности» в Ашдоде",
+      "name": "Новогодний бэби-спектакль «сНежности» в Раанане",
       "kind": "show",
       "location": [
-        "2026-12-12 in Ashdod"
+        "2026-12-26 in Ra'anana"
       ],
       "performances": [
         {
-          "date": "2026-12-12",
+          "date": "2026-12-26",
           "time": "11:00",
-          "startsAt": "2026-12-12T09:00:00.000Z",
-          "city": "Ashdod",
+          "startsAt": "2026-12-26T09:00:00.000Z",
+          "city": "Ra'anana",
           "language": "ru",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-b-ebi-spektakl-snezhnosti-v-ashdode-2",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-b-ebi-spektakl-snezhnosti-v-raanane",
           "sourceUrl": "https://www.blackowlhouse.com/main",
-          "originalTitle": "Новогодний бэби-спектакль «сНежности» в Ашдоде",
-          "id": "black-owl-house-d3c72cfe-d4dd-490f-a846-983bc2ec606a"
+          "originalTitle": "Новогодний бэби-спектакль «сНежности» в Раанане",
+          "id": "black-owl-house-5d1b70e6-272a-4290-b9bd-6347caca9ace"
         }
       ]
     },
     {
-      "name": "Новогодний спектакль «Подарок Деда Мороза» в Ашдоде",
+      "name": "Новогодний бэби-спектакль «сНежности» в Ришон-ле-Ционе",
       "kind": "show",
       "location": [
-        "2026-12-19 in Ashdod"
+        "2026-12-25 in Rishon LeZion"
       ],
       "performances": [
         {
-          "date": "2026-12-19",
-          "time": "11:00",
-          "startsAt": "2026-12-19T09:00:00.000Z",
-          "city": "Ashdod",
-          "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-ashdode",
+          "date": "2026-12-25",
+          "time": "17:00",
+          "startsAt": "2026-12-25T15:00:00.000Z",
+          "city": "Rishon LeZion",
+          "language": "ru",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-b-ebi-spektakl-snezhnosti-v-rishon-le-tsione-2",
           "sourceUrl": "https://www.blackowlhouse.com/main",
-          "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Ашдоде",
-          "id": "black-owl-house-ff0e90cc-0c9a-45fd-b974-9fd1da059282"
+          "originalTitle": "Новогодний бэби-спектакль «сНежности» в Ришон-ле-Ционе",
+          "id": "black-owl-house-5ff1a762-d396-4734-9e5d-e8487f7533e8"
+        }
+      ]
+    },
+    {
+      "name": "Новогодний спектакль «Подарок Деда Мороза» в Петах-Тикве",
+      "kind": "show",
+      "location": [
+        "2026-12-25 in Petah Tikva"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-25",
+          "time": "14:00",
+          "startsAt": "2026-12-25T12:00:00.000Z",
+          "city": "Petah Tikva",
+          "language": "und",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-petakh-tikve",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Петах-Тикве",
+          "id": "black-owl-house-886ce4cc-2006-41ad-b4fa-74e8eb683a31"
         }
       ]
     },
@@ -590,10 +610,31 @@
       ]
     },
     {
+      "name": "Новогодний спектакль «Подарок Деда Мороза» в Тель-Авиве",
+      "kind": "show",
+      "location": [
+        "2026-12-26 in Tel Aviv-Yafo"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-26",
+          "time": "11:00",
+          "startsAt": "2026-12-26T09:00:00.000Z",
+          "city": "Tel Aviv-Yafo",
+          "language": "und",
+          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-tel-avive",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Тель-Авиве",
+          "id": "black-owl-house-ed7467c4-b6a4-4a07-a751-08aedbb04d56"
+        }
+      ]
+    },
+    {
       "name": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
       "kind": "show",
       "location": [
         "2026-12-18 in Ришон ле-Цион",
+        "2026-12-23 in Ришон ле-Цион",
         "2026-12-26 in Ашдод",
         "2026-12-27 in Нетания",
         "2026-12-30 in Петах Тиква"
@@ -620,6 +661,17 @@
           "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
           "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
           "id": "tuz-tickets-413"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "17:30",
+          "startsAt": "2026-12-23T15:30:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-23-dec-2026/eid/478",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
+          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
+          "id": "tuz-tickets-478"
         },
         {
           "date": "2026-12-26",
@@ -711,27 +763,6 @@
           "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
           "id": "kassa-detail-b438e81f2d2db9e9a02e",
           "recommendedAge": "5+"
-        }
-      ]
-    },
-    {
-      "name": "Послушайте, я здесь!",
-      "kind": "show",
-      "location": [
-        "2026-10-22 in Netanya"
-      ],
-      "performances": [
-        {
-          "date": "2026-10-22",
-          "time": "18:00",
-          "startsAt": "2026-10-22T15:00:00.000Z",
-          "city": "Netanya",
-          "language": "und",
-          "ticketUrl": "https://netanya.smarticket.co.il/show/21890",
-          "sourceUrl": "https://www.blackowlhouse.com/main",
-          "originalTitle": "Спектакль «Послушайте, я здесь!» в Нетании (билеты по субсидированной цене)",
-          "id": "black-owl-house-1f1ee546-9f20-4361-a5d2-3e0f9e513d1d",
-          "recommendedAge": "3-10"
         }
       ]
     },
@@ -1100,10 +1131,34 @@
           "startsAt": "2026-12-04T11:30+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213850",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-df0c2530347407d63bfc",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "11:30",
+          "startsAt": "2026-12-04T11:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213850",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-8fbe72925adf46cacd00",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "14:00",
+          "startsAt": "2026-12-04T14:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213851",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-1c7a42cc18b23ab0d225",
           "recommendedAge": "4+"
         },
         {
@@ -1124,10 +1179,34 @@
           "startsAt": "2026-12-06T09:00+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213842",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-b834762138974ff44ff7",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "09:00",
+          "startsAt": "2026-12-06T09:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213842",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-73a746d5d9e2ed5ae994",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "11:30",
+          "startsAt": "2026-12-06T11:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213852",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-1e625fcdcc9b293b08a7",
           "recommendedAge": "4+"
         },
         {
@@ -1148,10 +1227,34 @@
           "startsAt": "2026-12-06T14:00+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213853",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-c1e2befcdbb61a6a8728",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "14:00",
+          "startsAt": "2026-12-06T14:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213853",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-c142e48ef559e31f1688",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "09:00",
+          "startsAt": "2026-12-07T09:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213854",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-900a37cf338881b66e3c",
           "recommendedAge": "4+"
         },
         {
@@ -1172,10 +1275,34 @@
           "startsAt": "2026-12-07T11:30+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213855",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-4626b846e84d9fb729f6",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "11:30",
+          "startsAt": "2026-12-07T11:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213855",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-b6cdefd6b927c5ea75df",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "14:00",
+          "startsAt": "2026-12-07T14:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213856",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-e55c0a6753df7dcb876e",
           "recommendedAge": "4+"
         },
         {
@@ -1196,10 +1323,34 @@
           "startsAt": "2026-12-08T09:00+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213857",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-cf0915b652b2f3319609",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:00",
+          "startsAt": "2026-12-08T09:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213857",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-34ba3c7eaf8d7e7cc370",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "11:30",
+          "startsAt": "2026-12-08T11:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213858",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-f4f0beaf4b2739bad694",
           "recommendedAge": "4+"
         },
         {
@@ -1220,10 +1371,34 @@
           "startsAt": "2026-12-08T14:00+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213859",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-43a40d126989f0fca9c8",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "14:00",
+          "startsAt": "2026-12-08T14:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213859",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-dd359f25f8490c6743d0",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:00",
+          "startsAt": "2026-12-09T09:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213860",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-9f8c3aa2f896f562fb83",
           "recommendedAge": "4+"
         },
         {
@@ -1244,10 +1419,34 @@
           "startsAt": "2026-12-09T11:30+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213861",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-20c8da71ec26d016954a",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "11:30",
+          "startsAt": "2026-12-09T11:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213861",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-838cf9727d4debceec02",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "14:00",
+          "startsAt": "2026-12-09T14:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213862",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-7143bcc629231071dd3e",
           "recommendedAge": "4+"
         },
         {
@@ -1268,10 +1467,34 @@
           "startsAt": "2026-12-10T09:00+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213863",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-364d1d1c4eeba525252d",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "09:00",
+          "startsAt": "2026-12-10T09:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213863",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-fea0b7c2a711cacd11f1",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "11:30",
+          "startsAt": "2026-12-10T11:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213864",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-8c78f3955ab7fe9233a3",
           "recommendedAge": "4+"
         },
         {
@@ -1292,10 +1515,34 @@
           "startsAt": "2026-12-10T14:00+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213865",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-76f168933925a75746ee",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "14:00",
+          "startsAt": "2026-12-10T14:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213865",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-25b78a43e67386f7649b",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:00",
+          "startsAt": "2026-12-11T09:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213866",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-6a6b4801c38a1d5636d0",
           "recommendedAge": "4+"
         },
         {
@@ -1316,10 +1563,34 @@
           "startsAt": "2026-12-11T11:30+02:00",
           "city": "Ашдод",
           "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213867",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-8b2c70d7a9a7af6c979f",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "11:30",
+          "startsAt": "2026-12-11T11:30+02:00",
+          "city": "Ашдод",
+          "language": "und",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213867",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87678",
           "originalTitle": "Ice planet fest — Ханука на льду — 2026",
           "id": "kassa-detail-0ed5bfc9820cf63f5c65",
+          "recommendedAge": "4+"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "14:00",
+          "startsAt": "2026-12-11T14:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213868",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87678",
+          "originalTitle": "Ice planet fest — Ханука на льду — 2026",
+          "id": "kassa-detail-869888df9dbf21f170cd",
           "recommendedAge": "4+"
         },
         {
@@ -1457,6 +1728,26 @@
       ]
     },
     {
+      "name": "פסטי LIVE קידס: צלילי הקסם",
+      "kind": "show",
+      "location": [
+        "2027-02-13 in ראשון לציון"
+      ],
+      "performances": [
+        {
+          "date": "2027-02-13",
+          "time": "10:00",
+          "startsAt": "2027-02-13T08:00:00Z",
+          "city": "ראשון לציון",
+          "language": "und",
+          "ticketUrl": "https://www.ticketsme.co.il/he/live-festi-13-feb-2027/eid/85",
+          "sourceUrl": "https://www.ticketsme.co.il/he/live-festi-13-feb-2027/eid/85",
+          "originalTitle": "פסטי LIVE קידס: צלילי הקסם",
+          "id": "tickets-me-918e5421c84739ea45fe"
+        }
+      ]
+    },
+    {
       "name": "צוציקים - הצגה לפעוטות",
       "kind": "show",
       "location": [
@@ -1506,7 +1797,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6
+        "linkCount": 5
       },
       {
         "url": "https://kinorai.co.il/films/",
@@ -1520,7 +1811,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 8,
+        "linkCount": 9,
         "warnings": [
           "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -1530,11 +1821,11 @@
         "status": "parsed",
         "parserId": "black-owl-house",
         "fromCache": false,
-        "eventCount": 6,
+        "eventCount": 7,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
           "Excluded 8 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
@@ -1619,7 +1910,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 64,
+        "linkCount": 65,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1631,7 +1922,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 63,
+        "linkCount": 60,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1679,7 +1970,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 10,
+        "linkCount": 24,
         "warnings": [
           "Dates on directory cards are publication dates, not performance dates."
         ]
@@ -1732,7 +2023,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 8,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1785,15 +2076,6 @@
       }
     ],
     "detailPages": [
-      {
-        "url": "https://kids-cinema.org.il/events/%d7%a9%d7%95%d7%9f-%d7%9b%d7%91%d7%a9%d7%95%d7%9f-%d7%a2%d7%a3-%d7%a2%d7%9c-%d7%94%d7%97%d7%9c%d7%9c/",
-        "status": "parsed",
-        "parserId": "kids-cinema",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
       {
         "url": "https://kids-cinema.org.il/events/%d7%99%d7%9c%d7%93-%d7%94%d7%9e%d7%93%d7%91%d7%a8-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%92%d7%99%d7%9c%d7%99-7/",
         "status": "parsed",
@@ -1903,6 +2185,15 @@
         "linkCount": 0
       },
       {
+        "url": "https://israelshowru.kassa.co.il/announce/87678",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 20,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/list/section:41/?p=2",
         "status": "parsed",
         "parserId": "bravo",
@@ -1992,7 +2283,7 @@
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2013,11 +2304,11 @@
         "status": "parsed",
         "parserId": "tuz-detail",
         "fromCache": false,
-        "eventCount": 5,
+        "eventCount": 6,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 7 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2043,6 +2334,39 @@
         "warnings": [
           "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
+      },
+      {
+        "url": "https://www.ticketsme.co.il/he/vivaldi-the-four-seasons-09-jan-2027/eid/66",
+        "status": "parsed",
+        "parserId": "tickets-me-detail",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 classical-music or orchestra events by title."
+        ]
+      },
+      {
+        "url": "https://www.ticketsme.co.il/he/live-05-feb-2027/eid/86",
+        "status": "parsed",
+        "parserId": "tickets-me-detail",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://www.ticketsme.co.il/he/live-festi-13-feb-2027/eid/85",
+        "status": "parsed",
+        "parserId": "tickets-me-detail",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/87428",
@@ -2145,7 +2469,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 336,
+    "unsupportedPageCount": 344,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
