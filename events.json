@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:21:10.988Z",
+  "generatedAt": "2026-11-03T12:00:46.509Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -756,14 +756,14 @@
       "name": "Одолеем Бармалея — спектакль театра ЭТО",
       "kind": "show",
       "location": [
-        "2026-11-20 in Петах-Тиква",
-        "2026-11-28 in Ашдод"
+        "2027-01-29 in Петах-Тиква",
+        "2027-02-27 in Ашдод"
       ],
       "performances": [
         {
-          "date": "2026-11-20",
+          "date": "2027-01-29",
           "time": "14:00",
-          "startsAt": "2026-11-20T14:00+02:00",
+          "startsAt": "2027-01-29T14:00+02:00",
           "city": "Петах-Тиква",
           "language": "ru",
           "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211778",
@@ -773,9 +773,9 @@
           "recommendedAge": "5+"
         },
         {
-          "date": "2026-11-20",
+          "date": "2027-01-29",
           "time": "14:00",
-          "startsAt": "2026-11-20T14:00+02:00",
+          "startsAt": "2027-01-29T14:00+02:00",
           "city": "Петах-Тиква",
           "language": "ru",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211778",
@@ -785,9 +785,9 @@
           "recommendedAge": "5+"
         },
         {
-          "date": "2026-11-28",
-          "time": "12:00",
-          "startsAt": "2026-11-28T12:00+02:00",
+          "date": "2027-02-27",
+          "time": "18:00",
+          "startsAt": "2027-02-27T18:00+02:00",
           "city": "Ашдод",
           "language": "ru",
           "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/212224",
@@ -797,9 +797,9 @@
           "recommendedAge": "5+"
         },
         {
-          "date": "2026-11-28",
-          "time": "12:00",
-          "startsAt": "2026-11-28T12:00+02:00",
+          "date": "2027-02-27",
+          "time": "18:00",
+          "startsAt": "2027-02-27T18:00+02:00",
           "city": "Ашдод",
           "language": "ru",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/212224",
@@ -903,7 +903,7 @@
           "startsAt": "2026-11-14T16:00:00Z",
           "city": "Петах Тиква",
           "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/index.php/ru/prikliuceniia-buratino-14-nov-2026/eid/474",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474",
           "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
           "originalTitle": "Приключения БУРАТИНО",
           "id": "tuz-tickets-474"
@@ -1885,7 +1885,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 8,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1897,7 +1897,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 4,
+        "linkCount": 5,
         "warnings": [
           "Tilda production cards require detail pages for reliable dates and cities."
         ]
@@ -1959,7 +1959,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 55,
+        "linkCount": 57,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1971,7 +1971,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 52,
+        "linkCount": 53,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -2007,7 +2007,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 11,
+        "linkCount": 10,
         "warnings": [
           "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
         ]
@@ -2084,8 +2084,15 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
+        "status": "parsed",
+        "parserId": "rusevents",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
+        ]
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -2185,7 +2192,7 @@
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2231,7 +2238,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 4,
+        "linkCount": 6,
         "warnings": [
           "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -2243,7 +2250,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 5,
         "warnings": [
           "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -2306,18 +2313,6 @@
         ]
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/87180",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
         "url": "https://tickets.tuz.co.il/ru/prikliuceniia-buratino-14-nov-2026/eid/474/group/1",
         "status": "parsed",
         "parserId": "tuz-detail",
@@ -2339,7 +2334,7 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 2 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -2469,11 +2464,32 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 9 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 8 events starting after 19:00 in Asia/Jerusalem."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87180",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
         "url": "https://ru.kupatbravo.co.il/announce/86668",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87717",
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
@@ -2491,15 +2507,6 @@
         "linkCount": 0
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/87717",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
-      {
         "url": "https://ru.kupatbravo.co.il/announce/87678",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -2509,7 +2516,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 339,
+    "unsupportedPageCount": 345,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
@@ -2525,11 +2532,6 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
-      },
-      {
-        "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
