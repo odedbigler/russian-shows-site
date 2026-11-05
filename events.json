@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:33:00.929Z",
+  "generatedAt": "2026-11-05T12:28:41.367Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 30,
-  "performanceCount": 130,
+  "showCount": 29,
+  "performanceCount": 129,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -1735,26 +1735,6 @@
       ]
     },
     {
-      "name": "מהפכת התפוזים של מתי",
-      "kind": "show",
-      "location": [
-        "2026-11-14 in Tel Aviv"
-      ],
-      "performances": [
-        {
-          "date": "2026-11-14",
-          "time": "10:30",
-          "startsAt": "2026-11-14T08:30:00Z",
-          "city": "Tel Aviv",
-          "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1813/%D7%9E%D7%94%D7%A4%D7%9B%D7%AA_%D7%94%D7%AA%D7%A4%D7%95%D7%96%D7%99%D7%9D_%D7%A9%D7%9C_%D7%9E%D7%AA%D7%99",
-          "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "מהפכת התפוזים של מתי",
-          "id": "orna-porat-3532ac48f1ad3e36a5bd"
-        }
-      ]
-    },
-    {
       "name": "מרק כפתורים",
       "kind": "show",
       "location": [
@@ -2094,7 +2074,7 @@
         "status": "parsed",
         "parserId": "orna-porat",
         "fromCache": false,
-        "eventCount": 7,
+        "eventCount": 6,
         "excludedLanguageCount": 0,
         "linkCount": 8,
         "warnings": [
@@ -2120,8 +2100,15 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
+        "status": "parsed",
+        "parserId": "rusevents",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
+        ]
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -2656,7 +2643,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 336,
+    "unsupportedPageCount": 339,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
@@ -2672,11 +2659,6 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
-      },
-      {
-        "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
