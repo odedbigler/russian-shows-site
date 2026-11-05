@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:00:46.509Z",
+  "generatedAt": "2026-11-05T08:09:23.569Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 29,
-  "performanceCount": 129,
+  "showCount": 30,
+  "performanceCount": 130,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -82,7 +82,10 @@
       "kind": "show",
       "location": [
         "2026-12-24 in Ашдод",
-        "2026-12-27 in Ришон ле-Цион"
+        "2026-12-24 in Ashdod",
+        "2026-12-27 in Ришон ле-Цион",
+        "2026-12-27 in Rishon LeZion",
+        "2026-12-29 in Petah Tikva"
       ],
       "performances": [
         {
@@ -110,6 +113,17 @@
           "recommendedAge": "5-12"
         },
         {
+          "date": "2026-12-24",
+          "time": "18:00",
+          "startsAt": "2026-12-24T16:00:00.000Z",
+          "city": "Ashdod",
+          "language": "und",
+          "ticketUrl": "https://www.labama.online/events/v-gostyakh-u-moroza",
+          "sourceUrl": "https://www.labama.online/events/v-gostyakh-u-moroza",
+          "originalTitle": "В гостях у Мороза",
+          "id": "labama-2eafec75-eb01-44b2-b961-2bdb55a563d9"
+        },
+        {
           "date": "2026-12-27",
           "time": "18:00",
           "startsAt": "2026-12-27T18:00+02:00",
@@ -132,6 +146,28 @@
           "originalTitle": "В гостях у Мороза",
           "id": "kassa-detail-88013215826acf86d793",
           "recommendedAge": "5-12"
+        },
+        {
+          "date": "2026-12-27",
+          "time": "18:00",
+          "startsAt": "2026-12-27T16:00:00.000Z",
+          "city": "Rishon LeZion",
+          "language": "und",
+          "ticketUrl": "https://www.labama.online/events/v-gostyakh-u-moroza-5",
+          "sourceUrl": "https://www.labama.online/events/v-gostyakh-u-moroza-5",
+          "originalTitle": "В гостях у Мороза",
+          "id": "labama-370b5cf3-da91-4f74-8a4a-766162b3bcf3"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "18:00",
+          "startsAt": "2026-12-29T16:00:00.000Z",
+          "city": "Petah Tikva",
+          "language": "und",
+          "ticketUrl": "https://www.labama.online/events/v-gostyakh-u-moroza-2",
+          "sourceUrl": "https://www.labama.online/events/v-gostyakh-u-moroza-2",
+          "originalTitle": "В гостях у Мороза",
+          "id": "labama-c15b62a6-5a1d-4252-96f0-d1f03999a315"
         }
       ]
     },
@@ -753,64 +789,6 @@
       ]
     },
     {
-      "name": "Одолеем Бармалея — спектакль театра ЭТО",
-      "kind": "show",
-      "location": [
-        "2027-01-29 in Петах-Тиква",
-        "2027-02-27 in Ашдод"
-      ],
-      "performances": [
-        {
-          "date": "2027-01-29",
-          "time": "14:00",
-          "startsAt": "2027-01-29T14:00+02:00",
-          "city": "Петах-Тиква",
-          "language": "ru",
-          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/211778",
-          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87180",
-          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
-          "id": "kassa-detail-d4c7f0e63a5d37eca9ae",
-          "recommendedAge": "5+"
-        },
-        {
-          "date": "2027-01-29",
-          "time": "14:00",
-          "startsAt": "2027-01-29T14:00+02:00",
-          "city": "Петах-Тиква",
-          "language": "ru",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211778",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87180",
-          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
-          "id": "kassa-detail-b5f5e4cdaaf707cfe327",
-          "recommendedAge": "5+"
-        },
-        {
-          "date": "2027-02-27",
-          "time": "18:00",
-          "startsAt": "2027-02-27T18:00+02:00",
-          "city": "Ашдод",
-          "language": "ru",
-          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/212224",
-          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87180",
-          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
-          "id": "kassa-detail-590dab10b87148ff6378",
-          "recommendedAge": "5+"
-        },
-        {
-          "date": "2027-02-27",
-          "time": "18:00",
-          "startsAt": "2027-02-27T18:00+02:00",
-          "city": "Ашдод",
-          "language": "ru",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/212224",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87180",
-          "originalTitle": "Одолеем Бармалея — спектакль театра ЭТО",
-          "id": "kassa-detail-b438e81f2d2db9e9a02e",
-          "recommendedAge": "5+"
-        }
-      ]
-    },
-    {
       "name": "Премьера 2026. Снежная Королева",
       "kind": "show",
       "location": [
@@ -911,28 +889,47 @@
       ]
     },
     {
+      "name": "Приключения др. Айболита",
+      "kind": "show",
+      "location": [
+        "2027-02-19 in Ашдод",
+        "2027-02-20 in Ришон ле-Цион"
+      ],
+      "performances": [
+        {
+          "date": "2027-02-19",
+          "time": "17:00",
+          "startsAt": "2027-02-19T15:00:00Z",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-19-feb-2027/eid/480",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481/group/1",
+          "originalTitle": "Приключения др. Айболита",
+          "id": "tuz-tickets-480"
+        },
+        {
+          "date": "2027-02-20",
+          "time": "11:00",
+          "startsAt": "2027-02-20T09:00:00Z",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481",
+          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481/group/1",
+          "originalTitle": "Приключения др. Айболита",
+          "id": "tuz-tickets-481"
+        }
+      ]
+    },
+    {
       "name": "Солнечная История — Театр Давай",
       "kind": "show",
       "location": [
-        "2026-11-04 in Ганей Тиква",
         "2026-11-07 in Ришон ле-Цион",
         "2026-11-25 in Ашдод",
         "2027-01-23 in Тель-Авив-Яффо",
         "2027-03-27 in Тель-Авив-Яффо"
       ],
       "performances": [
-        {
-          "date": "2026-11-04",
-          "time": "17:30",
-          "startsAt": "2026-11-04T17:30+02:00",
-          "city": "Ганей Тиква",
-          "language": "und",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211706",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
-          "originalTitle": "Солнечная История — Театр Давай",
-          "id": "kassa-detail-6451b39b0f6379667b85",
-          "recommendedAge": "3+"
-        },
         {
           "date": "2026-11-07",
           "time": "11:30",
@@ -1110,6 +1107,27 @@
           "originalTitle": "Тридцать оранжевых вёдер",
           "id": "kassa-detail-5c78a4aee78f05b360e2",
           "recommendedAge": "3-10"
+        }
+      ]
+    },
+    {
+      "name": "Ухти-Тухти",
+      "kind": "show",
+      "location": [
+        "2026-11-10 in Petah Tikva"
+      ],
+      "performances": [
+        {
+          "date": "2026-11-10",
+          "time": "17:00",
+          "startsAt": "2026-11-10T15:00:00.000Z",
+          "city": "Petah Tikva",
+          "language": "ru",
+          "ticketUrl": "https://www.zebratheater.com/en/event-details/ukhti-tukhti-4",
+          "sourceUrl": "https://www.zebratheater.com/en/event-details/ukhti-tukhti-4",
+          "originalTitle": "Ухти-Тухти",
+          "id": "zebra-57a59b83-3b90-4b59-bdff-3956f5c0f7c8",
+          "recommendedAge": "2.5-5"
         }
       ]
     },
@@ -1840,6 +1858,24 @@
   "coverage": {
     "sourcePages": [
       {
+        "url": "https://www.labama.online/",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 2
+      },
+      {
+        "url": "https://www.zebratheater.com/en",
+        "status": "parsed",
+        "parserId": "zebra",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 1
+      },
+      {
         "url": "https://kids-cinema.org.il/event_cat/movies/",
         "status": "parsed",
         "parserId": "kids-cinema",
@@ -1860,7 +1896,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 10,
+        "linkCount": 9,
         "warnings": [
           "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -1921,7 +1957,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 7,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1959,7 +1995,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 57,
+        "linkCount": 53,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1971,7 +2007,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 53,
+        "linkCount": 51,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -2133,6 +2169,33 @@
     ],
     "detailPages": [
       {
+        "url": "https://www.labama.online/%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 5
+      },
+      {
+        "url": "https://www.labama.online/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 7
+      },
+      {
+        "url": "https://www.zebratheater.com/en/event-details/ukhti-tukhti-4",
+        "status": "parsed",
+        "parserId": "zebra",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://kids-cinema.org.il/events/%d7%a4%d7%99%d7%a0%d7%99%d7%a7-%d7%9c%d7%94%d7%a6%d7%99%d7%9c-%d7%90%d7%aa-%d7%94%d7%9e%d7%a4%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa/",
         "status": "parsed",
         "parserId": "kids-cinema",
@@ -2184,18 +2247,6 @@
         ]
       },
       {
-        "url": "https://israelshowru.kassa.co.il/announce/87180",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
         "url": "https://israelshowru.kassa.co.il/announce/87475",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -2238,7 +2289,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 5,
         "warnings": [
           "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
@@ -2305,7 +2356,7 @@
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
-        "eventCount": 5,
+        "eventCount": 4,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -2372,6 +2423,15 @@
         "warnings": [
           "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": false,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
       },
       {
         "url": "https://www.ticketsme.co.il/he/vivaldi-the-four-seasons-09-jan-2027/eid/66",
@@ -2464,19 +2524,106 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 8 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 7 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/87180",
+        "url": "https://www.labama.online/events/v-gostyakh-u-moroza",
         "status": "parsed",
-        "parserId": "kassa-detail",
+        "parserId": "labama",
         "fromCache": false,
-        "eventCount": 2,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://www.labama.online/events/v-gostyakh-u-moroza-5",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://www.labama.online/events/v-gostyakh-u-moroza-2",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://www.labama.online/events/avtorskiy-vecher",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "No upcoming Russian or unknown-language labama occurrence with a complete schedule."
+        ]
+      },
+      {
+        "url": "https://www.labama.online/events/playback-2025-08-28-19-00",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No upcoming Russian or unknown-language labama occurrence with a complete schedule."
+        ]
+      },
+      {
+        "url": "https://www.labama.online/events/iskusstvo-zhit-v-izraile",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No upcoming Russian or unknown-language labama occurrence with a complete schedule."
+        ]
+      },
+      {
+        "url": "https://www.labama.online/events/pesakh-svoimi-rukami-tvorchestvo-i-vkus",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No upcoming Russian or unknown-language labama occurrence with a complete schedule."
+        ]
+      },
+      {
+        "url": "https://www.labama.online/events/purimshpil-dlya-detey-s-topom-i-khlopom",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No upcoming Russian or unknown-language labama occurrence with a complete schedule."
+        ]
+      },
+      {
+        "url": "https://www.labama.online/events/kontsert-vladimira-fridmana-pro-tu-i-etu-zhizn",
+        "status": "parsed",
+        "parserId": "labama",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "No upcoming Russian or unknown-language labama occurrence with a complete schedule."
         ]
       },
       {
@@ -2516,7 +2663,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 345,
+    "unsupportedPageCount": 339,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
