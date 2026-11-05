@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T08:09:23.569Z",
+  "generatedAt": "2026-11-05T09:33:00.929Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -558,7 +558,7 @@
           "startsAt": "2026-12-26T09:00:00.000Z",
           "city": "Ra'anana",
           "language": "ru",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-b-ebi-spektakl-snezhnosti-v-raanane",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-b-ebi-spektakl-snezhnosti-v-raanane",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний бэби-спектакль «сНежности» в Раанане",
           "id": "black-owl-house-5d1b70e6-272a-4290-b9bd-6347caca9ace"
@@ -578,7 +578,7 @@
           "startsAt": "2026-12-25T15:00:00.000Z",
           "city": "Rishon LeZion",
           "language": "ru",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-b-ebi-spektakl-snezhnosti-v-rishon-le-tsione-2",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-b-ebi-spektakl-snezhnosti-v-rishon-le-tsione-2",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний бэби-спектакль «сНежности» в Ришон-ле-Ционе",
           "id": "black-owl-house-5ff1a762-d396-4734-9e5d-e8487f7533e8"
@@ -618,7 +618,7 @@
           "startsAt": "2026-12-25T12:00:00.000Z",
           "city": "Petah Tikva",
           "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-petakh-tikve",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-petakh-tikve",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Петах-Тикве",
           "id": "black-owl-house-886ce4cc-2006-41ad-b4fa-74e8eb683a31"
@@ -640,7 +640,7 @@
           "startsAt": "2026-12-12T09:00:00.000Z",
           "city": "Ra'anana",
           "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-raanane",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-raanane",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Раанане",
           "id": "black-owl-house-9fd1a428-5b9d-4526-90d2-6f46d228ca1f"
@@ -651,7 +651,7 @@
           "startsAt": "2026-12-29T16:00:00.000Z",
           "city": "Ra'anana",
           "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-raanane-2",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-raanane-2",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Раанане",
           "id": "black-owl-house-cdceb4ab-c683-4115-9b62-822aefedcc5d"
@@ -662,7 +662,7 @@
           "startsAt": "2026-12-30T16:00:00.000Z",
           "city": "Ra'anana",
           "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-raanane-4",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-raanane-4",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Раанане",
           "id": "black-owl-house-7bdd3c73-2526-4da4-9f66-97e2321a4bac"
@@ -682,7 +682,7 @@
           "startsAt": "2026-12-24T16:00:00.000Z",
           "city": "Rishon LeZion",
           "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-rishon-le-tsione",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-rishon-le-tsione",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Ришон-ле-Ционе",
           "id": "black-owl-house-bc120860-9999-4626-b4f8-e6762c66de08"
@@ -702,7 +702,7 @@
           "startsAt": "2026-12-26T09:00:00.000Z",
           "city": "Tel Aviv-Yafo",
           "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/event-details/novogodniy-spektakl-podarok-deda-moroza-v-tel-avive",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-tel-avive",
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Тель-Авиве",
           "id": "black-owl-house-ed7467c4-b6a4-4a07-a751-08aedbb04d56"
@@ -2120,15 +2120,8 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "parsed",
-        "parserId": "rusevents",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 3,
-        "warnings": [
-          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
-        ]
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -2663,7 +2656,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 339,
+    "unsupportedPageCount": 336,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
@@ -2679,6 +2672,11 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
+      },
+      {
+        "url": "https://rusevents.com/israel/haifa/events/",
+        "status": "failed",
+        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
