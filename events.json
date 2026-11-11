@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:59:28.604Z",
+  "generatedAt": "2026-11-11T11:56:58.892Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 29,
-  "performanceCount": 126,
+  "showCount": 28,
+  "performanceCount": 124,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -383,6 +383,66 @@
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87000",
           "originalTitle": "Легендарный Московский Цирк Никулина — Грандиозное цирковое шоу на льду — Щелкунчик",
           "id": "kassa-detail-65558d99958aae12ae87",
+          "recommendedAge": "2+"
+        }
+      ]
+    },
+    {
+      "name": "Новогоднее Неоновое Шоу и Снежный Дракон — Три захватывающих шоу в одном",
+      "kind": "show",
+      "location": [
+        "2026-12-17 in Ашдод",
+        "2026-12-19 in Ришон ле-Цион",
+        "2026-12-20 in Нетания",
+        "2026-12-23 in Петах-Тиква"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-17",
+          "time": "18:00",
+          "startsAt": "2026-12-17T18:00+02:00",
+          "city": "Ашдод",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214739",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/neondragonshow",
+          "originalTitle": "Новогоднее Неоновое Шоу и Снежный Дракон — Три захватывающих шоу в одном",
+          "id": "kassa-detail-146f2cde8ce4b3aaab9d",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "11:00",
+          "startsAt": "2026-12-19T11:00+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214741",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/neondragonshow",
+          "originalTitle": "Новогоднее Неоновое Шоу и Снежный Дракон — Три захватывающих шоу в одном",
+          "id": "kassa-detail-191f6fc2db1a2c3dfd5f",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-20",
+          "time": "18:00",
+          "startsAt": "2026-12-20T18:00+02:00",
+          "city": "Нетания",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214744",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/neondragonshow",
+          "originalTitle": "Новогоднее Неоновое Шоу и Снежный Дракон — Три захватывающих шоу в одном",
+          "id": "kassa-detail-c97710d9a3724aa75c29",
+          "recommendedAge": "2+"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "18:00",
+          "startsAt": "2026-12-23T18:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214747",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/neondragonshow",
+          "originalTitle": "Новогоднее Неоновое Шоу и Снежный Дракон — Три захватывающих шоу в одном",
+          "id": "kassa-detail-312b51fe0ab79f2a023e",
           "recommendedAge": "2+"
         }
       ]
@@ -968,78 +1028,6 @@
       ]
     },
     {
-      "name": "Три Кота — Новый Спектакль — Карта сокровищ",
-      "kind": "show",
-      "location": [
-        "2026-12-17 in Ашдод",
-        "2026-12-19 in Ришон ле-Цион",
-        "2026-12-20 in Нетания",
-        "2026-12-23 in Петах-Тиква"
-      ],
-      "performances": [
-        {
-          "date": "2026-12-17",
-          "time": "18:00",
-          "startsAt": "2026-12-17T18:00+02:00",
-          "city": "Ашдод",
-          "language": "ru",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203221",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
-          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
-          "id": "kassa-detail-af4b0021d82562e430bb",
-          "recommendedAge": "2-11"
-        },
-        {
-          "date": "2026-12-19",
-          "time": "10:30",
-          "startsAt": "2026-12-19T10:30+02:00",
-          "city": "Ришон ле-Цион",
-          "language": "ru",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203222",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
-          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
-          "id": "kassa-detail-45035e8b91c0234c3deb",
-          "recommendedAge": "2-11"
-        },
-        {
-          "date": "2026-12-19",
-          "time": "12:30",
-          "startsAt": "2026-12-19T12:30+02:00",
-          "city": "Ришон ле-Цион",
-          "language": "ru",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203758",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
-          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
-          "id": "kassa-detail-8585d6dd3dc4c578ec41",
-          "recommendedAge": "2-11"
-        },
-        {
-          "date": "2026-12-20",
-          "time": "18:00",
-          "startsAt": "2026-12-20T18:00+02:00",
-          "city": "Нетания",
-          "language": "ru",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203214",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
-          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
-          "id": "kassa-detail-3ba38c56018d61c1890d",
-          "recommendedAge": "2-11"
-        },
-        {
-          "date": "2026-12-23",
-          "time": "18:00",
-          "startsAt": "2026-12-23T18:00+02:00",
-          "city": "Петах-Тиква",
-          "language": "ru",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/203224",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/3cats2026",
-          "originalTitle": "Три Кота — Новый Спектакль — Карта сокровищ",
-          "id": "kassa-detail-30474b39338a6a76b188",
-          "recommendedAge": "2-11"
-        }
-      ]
-    },
-    {
       "name": "Тридцать оранжевых вёдер",
       "kind": "show",
       "location": [
@@ -1069,27 +1057,6 @@
           "originalTitle": "Тридцать оранжевых вёдер",
           "id": "kassa-detail-5c78a4aee78f05b360e2",
           "recommendedAge": "3-10"
-        }
-      ]
-    },
-    {
-      "name": "Ухти-Тухти",
-      "kind": "show",
-      "location": [
-        "2026-11-10 in Petah Tikva"
-      ],
-      "performances": [
-        {
-          "date": "2026-11-10",
-          "time": "17:00",
-          "startsAt": "2026-11-10T15:00:00.000Z",
-          "city": "Petah Tikva",
-          "language": "ru",
-          "ticketUrl": "https://www.zebratheater.com/en/event-details/ukhti-tukhti-4",
-          "sourceUrl": "https://www.zebratheater.com/en/event-details/ukhti-tukhti-4",
-          "originalTitle": "Ухти-Тухти",
-          "id": "zebra-57a59b83-3b90-4b59-bdff-3956f5c0f7c8",
-          "recommendedAge": "2.5-5"
         }
       ]
     },
@@ -1815,7 +1782,10 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 1
+        "linkCount": 0,
+        "warnings": [
+          "No scheduled Zebra event links found; repertoire pages are not performances."
+        ]
       },
       {
         "url": "https://kids-cinema.org.il/event_cat/movies/",
@@ -1911,11 +1881,11 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 10,
+        "linkCount": 9,
         "warnings": [
           "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
-          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 3 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -1937,7 +1907,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 58,
+        "linkCount": 61,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1949,7 +1919,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 53,
+        "linkCount": 55,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1961,7 +1931,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 154,
+        "linkCount": 127,
         "warnings": [
           "Tour cards require production details to associate occurrences with cities."
         ]
@@ -1985,7 +1955,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 7,
+        "linkCount": 6,
         "warnings": [
           "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
         ]
@@ -2122,15 +2092,6 @@
         "linkCount": 7
       },
       {
-        "url": "https://www.zebratheater.com/en/event-details/ukhti-tukhti-4",
-        "status": "parsed",
-        "parserId": "zebra",
-        "fromCache": false,
-        "eventCount": 1,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
-      {
         "url": "https://kids-cinema.org.il/events/%d7%a4%d7%99%d7%a0%d7%99%d7%a7-%d7%9c%d7%94%d7%a6%d7%99%d7%9c-%d7%90%d7%aa-%d7%94%d7%9e%d7%a4%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa/",
         "status": "parsed",
         "parserId": "kids-cinema",
@@ -2215,9 +2176,9 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 4,
+        "linkCount": 5,
         "warnings": [
-          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -2227,9 +2188,9 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 5,
         "warnings": [
-          "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -2257,15 +2218,15 @@
         ]
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/3cats2026",
+        "url": "https://ru.kupatbravo.co.il/announce/neondragonshow",
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
-        "eventCount": 5,
+        "eventCount": 4,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2540,20 +2501,20 @@
         ]
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/86668",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
-      {
         "url": "https://ru.kupatbravo.co.il/announce/87475",
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
         "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/86668",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 2,
         "excludedLanguageCount": 0,
         "linkCount": 0
       },
@@ -2576,7 +2537,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 340,
+    "unsupportedPageCount": 316,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
@@ -2604,7 +2565,7 @@
         "error": "HTTP 301; no retry or additional redirect attempted"
       },
       {
-        "url": "https://israelshowru.kassa.co.il/announce/85141",
+        "url": "https://israelshowru.kassa.co.il/announce/87890",
         "status": "failed",
         "error": "HTTP 301; no retry or additional redirect attempted"
       }
