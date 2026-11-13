@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:56:58.892Z",
+  "generatedAt": "2026-11-13T12:19:57.764Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -1822,8 +1822,8 @@
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 5 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 4 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -1881,10 +1881,10 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 8,
         "warnings": [
           "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
-          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
           "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
@@ -1907,7 +1907,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 61,
+        "linkCount": 63,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1919,7 +1919,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 55,
+        "linkCount": 57,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1931,7 +1931,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 127,
+        "linkCount": 123,
         "warnings": [
           "Tour cards require production details to associate occurrences with cities."
         ]
@@ -1984,7 +1984,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 8,
+        "linkCount": 10,
         "warnings": [
           "Cards provide a venue name but no city; detail pages are needed. Hebrew interface text is not a performance-language label."
         ]
@@ -2206,18 +2206,6 @@
         ]
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/86706",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 6,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
         "url": "https://ru.kupatbravo.co.il/announce/neondragonshow",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -2227,6 +2215,18 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/86706",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 6,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2259,7 +2259,7 @@
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2398,7 +2398,7 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 7 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 6 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -2537,7 +2537,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 316,
+    "unsupportedPageCount": 317,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
