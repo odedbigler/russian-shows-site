@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:01:32.488Z",
+  "generatedAt": "2026-11-17T13:34:39.235Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 28,
-  "performanceCount": 124,
+  "showCount": 29,
+  "performanceCount": 130,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -569,6 +569,30 @@
           "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
           "id": "kassa-detail-3758e6f1233788fd55f5",
           "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-01-09",
+          "time": "16:00",
+          "startsAt": "2027-01-09T16:00+02:00",
+          "city": "Кирьят-Оно",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214882",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-b77c00b4c342739aa1a8",
+          "recommendedAge": "3+"
+        },
+        {
+          "date": "2027-01-09",
+          "time": "16:00",
+          "startsAt": "2027-01-09T16:00+02:00",
+          "city": "Кирьят-Оно",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214882",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86706",
+          "originalTitle": "Новогодние приключения Бабы Яги — театр Zero",
+          "id": "kassa-detail-e92a51b55eaf1ff289cd",
+          "recommendedAge": "3+"
         }
       ]
     },
@@ -657,7 +681,6 @@
       "kind": "show",
       "location": [
         "2026-12-12 in Ra'anana",
-        "2026-12-29 in Ra'anana",
         "2026-12-30 in Ra'anana"
       ],
       "performances": [
@@ -671,17 +694,6 @@
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Раанане",
           "id": "black-owl-house-9fd1a428-5b9d-4526-90d2-6f46d228ca1f"
-        },
-        {
-          "date": "2026-12-29",
-          "time": "18:00",
-          "startsAt": "2026-12-29T16:00:00.000Z",
-          "city": "Ra'anana",
-          "language": "und",
-          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-raanane-2",
-          "sourceUrl": "https://www.blackowlhouse.com/main",
-          "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Раанане",
-          "id": "black-owl-house-cdceb4ab-c683-4115-9b62-822aefedcc5d"
         },
         {
           "date": "2026-12-30",
@@ -733,6 +745,79 @@
           "sourceUrl": "https://www.blackowlhouse.com/main",
           "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Тель-Авиве",
           "id": "black-owl-house-ed7467c4-b6a4-4a07-a751-08aedbb04d56"
+        }
+      ]
+    },
+    {
+      "name": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+      "kind": "show",
+      "location": [
+        "2026-12-12 in Раанана",
+        "2026-12-24 in Ришон ле-Цион",
+        "2026-12-25 in Петах-Тиква",
+        "2026-12-26 in Тель-Авив-Яффо",
+        "2026-12-30 in Раанана"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-12",
+          "time": "11:00",
+          "startsAt": "2026-12-12T11:00+02:00",
+          "city": "Раанана",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214935",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-1854ab4945a755906b2d",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "18:00",
+          "startsAt": "2026-12-24T18:00+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214899",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-0a5659b376ce66df6ef3",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "14:00",
+          "startsAt": "2026-12-25T14:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214900",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-56cb3f95e161a793280e",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "11:00",
+          "startsAt": "2026-12-26T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214901",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-38654ea77b134d744f39",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "18:00",
+          "startsAt": "2026-12-30T18:00+02:00",
+          "city": "Раанана",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214903",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-641c8e574e726ee2462c",
+          "recommendedAge": "3-12"
         }
       ]
     },
@@ -1792,7 +1877,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 1
+        "linkCount": 0
       },
       {
         "url": "https://kinorai.co.il/films/",
@@ -1816,7 +1901,7 @@
         "status": "parsed",
         "parserId": "black-owl-house",
         "fromCache": false,
-        "eventCount": 9,
+        "eventCount": 8,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -1867,7 +1952,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 7,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1893,7 +1978,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 5,
+        "linkCount": 6,
         "warnings": [
           "Children's listing lacks full occurrence dates/cities; yearless dates and sidebar recommendations are not events."
         ]
@@ -1905,7 +1990,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 61,
+        "linkCount": 63,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -1917,7 +2002,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 53,
+        "linkCount": 54,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -1941,7 +2026,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 3,
+        "linkCount": 1,
         "warnings": [
           "No complete event occurrences in embedded Wix data; returned available ticket links only."
         ]
@@ -1953,7 +2038,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 5,
+        "linkCount": 4,
         "warnings": [
           "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
         ]
@@ -2030,8 +2115,15 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
+        "status": "parsed",
+        "parserId": "rusevents",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
+        ]
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -2090,15 +2182,6 @@
         "linkCount": 7
       },
       {
-        "url": "https://kids-cinema.org.il/events/%d7%a4%d7%99%d7%a0%d7%99%d7%a7-%d7%9c%d7%94%d7%a6%d7%99%d7%9c-%d7%90%d7%aa-%d7%94%d7%9e%d7%a4%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa/",
-        "status": "parsed",
-        "parserId": "kids-cinema",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
-      {
         "url": "https://israelshowru.kassa.co.il/announce/86668",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -2112,7 +2195,7 @@
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
-        "eventCount": 6,
+        "eventCount": 7,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -2165,7 +2248,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 3,
+        "linkCount": 4,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -2207,18 +2290,6 @@
         ]
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/86706",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 6,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
         "url": "https://ru.kupatbravo.co.il/announce/87607",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -2226,6 +2297,18 @@
         "eventCount": 2,
         "excludedLanguageCount": 0,
         "linkCount": 0
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/86706",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 7,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
       },
       {
         "url": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
@@ -2247,18 +2330,6 @@
         "eventCount": 2,
         "excludedLanguageCount": 0,
         "linkCount": 0
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/gde-ty-don-kixot-17-nov-2026/eid/467/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
       },
       {
         "url": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
@@ -2294,6 +2365,19 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+        ]
+      },
+      {
+        "url": "https://tickets.tuz.co.il/ru/gde-ty-don-kixot-22-jan-2027/eid/483/group/1",
+        "status": "parsed",
+        "parserId": "tuz-detail",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
+          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -2384,7 +2468,7 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 2 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 4 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 6 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -2487,6 +2571,15 @@
         ]
       },
       {
+        "url": "https://ru.kupatbravo.co.il/announce/87928",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 5,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/announce/87717",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -2505,7 +2598,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 323,
+    "unsupportedPageCount": 328,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
@@ -2521,11 +2614,6 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
-      },
-      {
-        "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
