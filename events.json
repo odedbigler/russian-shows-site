@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:34:39.235Z",
+  "generatedAt": "2026-11-19T13:23:32.228Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,8 +17,8 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 29,
-  "performanceCount": 130,
+  "showCount": 27,
+  "performanceCount": 120,
   "shows": [
     {
       "name": "Апчхи! — Театр Давай",
@@ -168,6 +168,60 @@
           "sourceUrl": "https://www.labama.online/events/v-gostyakh-u-moroza-2",
           "originalTitle": "В гостях у Мороза",
           "id": "labama-c15b62a6-5a1d-4252-96f0-d1f03999a315"
+        }
+      ]
+    },
+    {
+      "name": "Возвращение к свету — Наама Супер Аль — Ханука 2026",
+      "kind": "show",
+      "location": [
+        "2026-12-04 in Тель-Авив-Яффо"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-04",
+          "time": "11:00",
+          "startsAt": "2026-12-04T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214968",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87943",
+          "originalTitle": "Возвращение к свету — Наама Супер Аль — Ханука 2026",
+          "id": "kassa-detail-995170f918183aabf01c",
+          "recommendedAge": "2-10"
+        }
+      ]
+    },
+    {
+      "name": "История трех орешков",
+      "kind": "show",
+      "location": [
+        "2027-01-18 in Ришон ле-Цион"
+      ],
+      "performances": [
+        {
+          "date": "2027-01-18",
+          "time": "17:30",
+          "startsAt": "2027-01-18T17:30+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214978",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87948",
+          "originalTitle": "История трех орешков",
+          "id": "kassa-detail-79ffb0f797f79ec642be",
+          "recommendedAge": "3-8"
+        },
+        {
+          "date": "2027-01-18",
+          "time": "17:30",
+          "startsAt": "2027-01-18T17:30+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "und",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214978",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87948",
+          "originalTitle": "История трех орешков",
+          "id": "kassa-detail-0493e77bc6f3445f40c6",
+          "recommendedAge": "3-8"
         }
       ]
     },
@@ -637,6 +691,26 @@
       ]
     },
     {
+      "name": "Новогодний спектакль «Подарок Деда Мороза» в Ашдоде",
+      "kind": "show",
+      "location": [
+        "2026-12-19 in Ashdod"
+      ],
+      "performances": [
+        {
+          "date": "2026-12-19",
+          "time": "17:00",
+          "startsAt": "2026-12-19T15:00:00.000Z",
+          "city": "Ashdod",
+          "language": "und",
+          "ticketUrl": "https://www.blackowlhouse.com/afisha/novogodniy-spektakl-podarok-deda-moroza-v-ashdode-2",
+          "sourceUrl": "https://www.blackowlhouse.com/main",
+          "originalTitle": "Новогодний спектакль «Подарок Деда Мороза» в Ашдоде",
+          "id": "black-owl-house-e019f48e-1a88-4d1c-b3f7-646521930540"
+        }
+      ]
+    },
+    {
       "name": "Новогодний спектакль «Подарок Деда Мороза» в Нетании (билеты по субсидированной цене)",
       "kind": "show",
       "location": [
@@ -753,6 +827,7 @@
       "kind": "show",
       "location": [
         "2026-12-12 in Раанана",
+        "2026-12-19 in Ашдод",
         "2026-12-24 in Ришон ле-Цион",
         "2026-12-25 in Петах-Тиква",
         "2026-12-26 in Тель-Авив-Яффо",
@@ -765,10 +840,58 @@
           "startsAt": "2026-12-12T11:00+02:00",
           "city": "Раанана",
           "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214935",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-18d5b648d0a389f79e03",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "11:00",
+          "startsAt": "2026-12-12T11:00+02:00",
+          "city": "Раанана",
+          "language": "ru",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214935",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
           "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
           "id": "kassa-detail-1854ab4945a755906b2d",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "17:00",
+          "startsAt": "2026-12-19T17:00+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214961",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-f67f2cad5079543abf65",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "17:00",
+          "startsAt": "2026-12-19T17:00+02:00",
+          "city": "Ашдод",
+          "language": "ru",
+          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214961",
+          "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-ed1d96d1ab41ea49df57",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "18:00",
+          "startsAt": "2026-12-24T18:00+02:00",
+          "city": "Ришон ле-Цион",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214899",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-18d93d180600d2a99d42",
           "recommendedAge": "3-12"
         },
         {
@@ -789,10 +912,34 @@
           "startsAt": "2026-12-25T14:00+02:00",
           "city": "Петах-Тиква",
           "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214900",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-c6ed9aedbb855f5cd8e2",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "14:00",
+          "startsAt": "2026-12-25T14:00+02:00",
+          "city": "Петах-Тиква",
+          "language": "ru",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214900",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
           "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
           "id": "kassa-detail-56cb3f95e161a793280e",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "11:00",
+          "startsAt": "2026-12-26T11:00+02:00",
+          "city": "Тель-Авив-Яффо",
+          "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214901",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-5249392c215806528f23",
           "recommendedAge": "3-12"
         },
         {
@@ -813,213 +960,23 @@
           "startsAt": "2026-12-30T18:00+02:00",
           "city": "Раанана",
           "language": "ru",
+          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/214903",
+          "sourceUrl": "https://israelshowru.kassa.co.il/announce/87928",
+          "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
+          "id": "kassa-detail-aeeb642511b41571a134",
+          "recommendedAge": "3-12"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "18:00",
+          "startsAt": "2026-12-30T18:00+02:00",
+          "city": "Раанана",
+          "language": "ru",
           "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/214903",
           "sourceUrl": "https://ru.kupatbravo.co.il/announce/87928",
           "originalTitle": "Новогодний спектакль Подарок Деда Мороза — Театр Дом чёрной совы",
           "id": "kassa-detail-641c8e574e726ee2462c",
           "recommendedAge": "3-12"
-        }
-      ]
-    },
-    {
-      "name": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-      "kind": "show",
-      "location": [
-        "2026-12-18 in Ришон ле-Цион",
-        "2026-12-23 in Ришон ле-Цион",
-        "2026-12-26 in Ашдод",
-        "2026-12-27 in Нетания",
-        "2026-12-30 in Петах Тиква"
-      ],
-      "performances": [
-        {
-          "date": "2026-12-18",
-          "time": "12:00",
-          "startsAt": "2026-12-18T10:00:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-18-dec-2026-12/eid/476",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-          "id": "tuz-tickets-476"
-        },
-        {
-          "date": "2026-12-18",
-          "time": "14:00",
-          "startsAt": "2026-12-18T12:00:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-18-dec-2026/eid/413",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-          "id": "tuz-tickets-413"
-        },
-        {
-          "date": "2026-12-23",
-          "time": "17:30",
-          "startsAt": "2026-12-23T15:30:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-23-dec-2026/eid/478",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-          "id": "tuz-tickets-478"
-        },
-        {
-          "date": "2026-12-26",
-          "time": "11:00",
-          "startsAt": "2026-12-26T09:00:00Z",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-26-dec-2026/eid/424",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-          "id": "tuz-tickets-424"
-        },
-        {
-          "date": "2026-12-27",
-          "time": "17:30",
-          "startsAt": "2026-12-27T15:30:00Z",
-          "city": "Нетания",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-27-dec-2026/eid/414",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-          "id": "tuz-tickets-414"
-        },
-        {
-          "date": "2026-12-30",
-          "time": "16:00",
-          "startsAt": "2026-12-30T14:00:00Z",
-          "city": "Петах Тиква",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-30-dec-16-00/eid/482",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-          "id": "tuz-tickets-482"
-        },
-        {
-          "date": "2026-12-30",
-          "time": "17:30",
-          "startsAt": "2026-12-30T15:30:00Z",
-          "city": "Петах Тиква",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/novogodniaia-premera-2026-elki-sou-8-30-dec-2026/eid/426",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-          "originalTitle": "Новогодняя премьера 2026 \"Ёлки Шоу 8\"",
-          "id": "tuz-tickets-426"
-        }
-      ]
-    },
-    {
-      "name": "Премьера 2026. Снежная Королева",
-      "kind": "show",
-      "location": [
-        "2026-12-19 in Холон",
-        "2026-12-25 in Нетания",
-        "2026-12-27 in Лод",
-        "2026-12-28 in Петах Тиква",
-        "2026-12-30 in Ашдод",
-        "2027-01-02 in Ришон ле-Цион"
-      ],
-      "performances": [
-        {
-          "date": "2026-12-19",
-          "time": "11:00",
-          "startsAt": "2026-12-19T09:00:00Z",
-          "city": "Холон",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-19-dec-2026/eid/419",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-419"
-        },
-        {
-          "date": "2026-12-25",
-          "time": "14:00",
-          "startsAt": "2026-12-25T12:00:00Z",
-          "city": "Нетания",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-25-dec-2026/eid/410",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-410"
-        },
-        {
-          "date": "2026-12-27",
-          "time": "17:30",
-          "startsAt": "2026-12-27T15:30:00Z",
-          "city": "Лод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-27-dec-2026/eid/422",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-422"
-        },
-        {
-          "date": "2026-12-28",
-          "time": "17:30",
-          "startsAt": "2026-12-28T15:30:00Z",
-          "city": "Петах Тиква",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-28-dec-2026/eid/417",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-417"
-        },
-        {
-          "date": "2026-12-30",
-          "time": "17:30",
-          "startsAt": "2026-12-30T15:30:00Z",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-30-dec-2026/eid/418",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-418"
-        },
-        {
-          "date": "2027-01-02",
-          "time": "11:00",
-          "startsAt": "2027-01-02T09:00:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-          "originalTitle": "Премьера 2026. Снежная Королева",
-          "id": "tuz-tickets-411"
-        }
-      ]
-    },
-    {
-      "name": "Приключения др. Айболита",
-      "kind": "show",
-      "location": [
-        "2027-02-19 in Ашдод",
-        "2027-02-20 in Ришон ле-Цион"
-      ],
-      "performances": [
-        {
-          "date": "2027-02-19",
-          "time": "17:00",
-          "startsAt": "2027-02-19T15:00:00Z",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-19-feb-2027/eid/480",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481/group/1",
-          "originalTitle": "Приключения др. Айболита",
-          "id": "tuz-tickets-480"
-        },
-        {
-          "date": "2027-02-20",
-          "time": "11:00",
-          "startsAt": "2027-02-20T09:00:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481/group/1",
-          "originalTitle": "Приключения др. Айболита",
-          "id": "tuz-tickets-481"
         }
       ]
     },
@@ -1100,74 +1057,6 @@
           "originalTitle": "Тридцать оранжевых вёдер",
           "id": "kassa-detail-5c78a4aee78f05b360e2",
           "recommendedAge": "3-10"
-        }
-      ]
-    },
-    {
-      "name": "Фести LIVE: Подарки Деда Мороза.",
-      "kind": "show",
-      "location": [
-        "2026-12-19 in Ашдод",
-        "2026-12-20 in Ришон ле-Цион",
-        "2026-12-23 in Петах Тиква",
-        "2026-12-28 in Холон",
-        "2027-01-01 in Нетания"
-      ],
-      "performances": [
-        {
-          "date": "2026-12-19",
-          "time": "11:00",
-          "startsAt": "2026-12-19T09:00:00Z",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-19-dec-2026/eid/443",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-443"
-        },
-        {
-          "date": "2026-12-20",
-          "time": "17:30",
-          "startsAt": "2026-12-20T15:30:00Z",
-          "city": "Ришон ле-Цион",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-20-dec-2026/eid/459",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза",
-          "id": "tuz-tickets-459"
-        },
-        {
-          "date": "2026-12-23",
-          "time": "17:30",
-          "startsAt": "2026-12-23T15:30:00Z",
-          "city": "Петах Тиква",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-23-dec-2026/eid/475",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-475"
-        },
-        {
-          "date": "2026-12-28",
-          "time": "17:30",
-          "startsAt": "2026-12-28T15:30:00Z",
-          "city": "Холон",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-28-dec-2026/eid/469",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-469"
-        },
-        {
-          "date": "2027-01-01",
-          "time": "14:00",
-          "startsAt": "2027-01-01T12:00:00Z",
-          "city": "Нетания",
-          "language": "und",
-          "ticketUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-01-jan-2027/eid/442",
-          "sourceUrl": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-          "originalTitle": "Фести LIVE: Подарки Деда Мороза.",
-          "id": "tuz-tickets-442"
         }
       ]
     },
@@ -1747,26 +1636,6 @@
       ]
     },
     {
-      "name": "ממלכת שטות וממלכת רצינות",
-      "kind": "show",
-      "location": [
-        "2026-11-21 in Tel Aviv"
-      ],
-      "performances": [
-        {
-          "date": "2026-11-21",
-          "time": "10:00",
-          "startsAt": "2026-11-21T08:00:00Z",
-          "city": "Tel Aviv",
-          "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1939/%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA_%D7%A9%D7%98%D7%95%D7%AA_%D7%95%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA_%D7%A8%D7%A6%D7%99%D7%A0%D7%95%D7%AA",
-          "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "ממלכת שטות וממלכת רצינות",
-          "id": "orna-porat-991236954df0e2413966"
-        }
-      ]
-    },
-    {
       "name": "על ראש הברוש (מסיבה בגינה)",
       "kind": "show",
       "location": [
@@ -1891,9 +1760,9 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 8,
+        "linkCount": 10,
         "warnings": [
-          "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 3 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -1901,12 +1770,12 @@
         "status": "parsed",
         "parserId": "black-owl-house",
         "fromCache": false,
-        "eventCount": 8,
+        "eventCount": 9,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
           "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 5 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 4 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -1952,7 +1821,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 7,
+        "linkCount": 6,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1990,7 +1859,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 63,
+        "linkCount": 59,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -2002,7 +1871,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 54,
+        "linkCount": 51,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -2089,7 +1958,7 @@
         "status": "parsed",
         "parserId": "orna-porat",
         "fromCache": false,
-        "eventCount": 8,
+        "eventCount": 7,
         "excludedLanguageCount": 0,
         "linkCount": 8,
         "warnings": [
@@ -2242,13 +2111,31 @@
         "linkCount": 0
       },
       {
+        "url": "https://israelshowru.kassa.co.il/announce/87928",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 6,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://israelshowru.kassa.co.il/announce/87948",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/list/section:41/?p=2",
         "status": "parsed",
         "parserId": "bravo",
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 4,
+        "linkCount": 3,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -2260,9 +2147,9 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 5,
+        "linkCount": 8,
         "warnings": [
-          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 3 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -2326,64 +2213,6 @@
         "url": "https://ru.kupatbravo.co.il/announce/86668",
         "status": "parsed",
         "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/premera-2026-elki-sou-8-alisa-novogodnee-cudo-01-jan-2027/eid/415/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": false,
-        "eventCount": 7,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 7 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/festi-live-elka-02-jan-2027/eid/456/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": false,
-        "eventCount": 5,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 5 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/premera-2026-sneznaia-koroleva-02-jan-2027/eid/411/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": false,
-        "eventCount": 6,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/gde-ty-don-kixot-22-jan-2027/eid/483/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 1 events starting after 19:00 in Asia/Jerusalem."
-        ]
-      },
-      {
-        "url": "https://tickets.tuz.co.il/ru/prikliuceniia-dr-aibolita-20-feb-2027/eid/481/group/1",
-        "status": "parsed",
-        "parserId": "tuz-detail",
         "fromCache": false,
         "eventCount": 2,
         "excludedLanguageCount": 0,
@@ -2571,11 +2400,29 @@
         ]
       },
       {
+        "url": "https://ru.kupatbravo.co.il/announce/87943",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87948",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/announce/87928",
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
-        "eventCount": 5,
+        "eventCount": 6,
         "excludedLanguageCount": 0,
         "linkCount": 0
       },
@@ -2598,7 +2445,7 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 328,
+    "unsupportedPageCount": 325,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
