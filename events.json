@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:46:01.268Z",
+  "generatedAt": "2026-11-23T14:49:48.171Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -17,66 +17,9 @@
     "minimumRecommendedAgeAtMost": 6,
     "unknownAge": "included"
   },
-  "showCount": 31,
-  "performanceCount": 141,
+  "showCount": 30,
+  "performanceCount": 137,
   "shows": [
-    {
-      "name": "Апчхи! — Театр Давай",
-      "kind": "show",
-      "location": [
-        "2026-11-21 in Тель-Авив-Яффо"
-      ],
-      "performances": [
-        {
-          "date": "2026-11-21",
-          "time": "11:00",
-          "startsAt": "2026-11-21T11:00+02:00",
-          "city": "Тель-Авив-Яффо",
-          "language": "und",
-          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/209796",
-          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86668",
-          "originalTitle": "Апчхи! — Театр Давай",
-          "id": "kassa-detail-42448f2aaae7a76b50ad",
-          "recommendedAge": "3-7"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "11:00",
-          "startsAt": "2026-11-21T11:00+02:00",
-          "city": "Тель-Авив-Яффо",
-          "language": "und",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/209796",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86668",
-          "originalTitle": "Апчхи! — Театр Давай",
-          "id": "kassa-detail-01dd180462cdbff99853",
-          "recommendedAge": "3-7"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "12:30",
-          "startsAt": "2026-11-21T12:30+02:00",
-          "city": "Тель-Авив-Яффо",
-          "language": "und",
-          "ticketUrl": "https://israelshowru.kassa.co.il/announce/buy/213871",
-          "sourceUrl": "https://israelshowru.kassa.co.il/announce/86668",
-          "originalTitle": "Апчхи! — Театр Давай",
-          "id": "kassa-detail-4e45058087ed072a50d3",
-          "recommendedAge": "3-7"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "12:30",
-          "startsAt": "2026-11-21T12:30+02:00",
-          "city": "Тель-Авив-Яффо",
-          "language": "und",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/213871",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/86668",
-          "originalTitle": "Апчхи! — Театр Давай",
-          "id": "kassa-detail-67e5623c11d1496d609d",
-          "recommendedAge": "3-7"
-        }
-      ]
-    },
     {
       "name": "В гостях у Мороза",
       "kind": "show",
@@ -1857,42 +1800,42 @@
       ]
     },
     {
-      "name": "איך אורזים פילים ?",
+      "name": "אלוף העולם",
       "kind": "show",
       "location": [
-        "2026-11-21 in Tel Aviv"
+        "2026-11-28 in Tel Aviv"
       ],
       "performances": [
         {
-          "date": "2026-11-21",
-          "time": "10:00",
-          "startsAt": "2026-11-21T08:00:00Z",
+          "date": "2026-11-28",
+          "time": "11:00",
+          "startsAt": "2026-11-28T09:00:00Z",
           "city": "Tel Aviv",
           "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1994/%D7%90%D7%99%D7%9A_%D7%90%D7%95%D7%A8%D7%96%D7%99%D7%9D_%D7%A4%D7%99%D7%9C%D7%99%D7%9D_%7Cfq%7C",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1430/%D7%90%D7%9C%D7%95%D7%A3_%D7%94%D7%A2%D7%95%D7%9C%D7%9D",
           "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "איך אורזים פילים ?",
-          "id": "orna-porat-b54026b0aa63e56ffd61"
+          "originalTitle": "אלוף העולם",
+          "id": "orna-porat-fedb584693a6f282c787"
         }
       ]
     },
     {
-      "name": "אליסה בארץ הפלאות",
+      "name": "הצד שלי",
       "kind": "show",
       "location": [
-        "2026-11-21 in Tel Aviv"
+        "2026-11-28 in Tel Aviv"
       ],
       "performances": [
         {
-          "date": "2026-11-21",
-          "time": "10:30",
-          "startsAt": "2026-11-21T08:30:00Z",
+          "date": "2026-11-28",
+          "time": "11:00",
+          "startsAt": "2026-11-28T09:00:00Z",
           "city": "Tel Aviv",
           "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1926/%D7%90%D7%9C%D7%99%D7%A1%D7%94_%D7%91%D7%90%D7%A8%D7%A5_%D7%94%D7%A4%D7%9C%D7%90%D7%95%D7%AA",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1311/%D7%94%D7%A6%D7%93_%D7%A9%D7%9C%D7%99",
           "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "אליסה בארץ הפלאות",
-          "id": "orna-porat-61fd83e94b181fc8f0a5"
+          "originalTitle": "הצד שלי",
+          "id": "orna-porat-adeeb7abf36ba6ce1d2f"
         }
       ]
     },
@@ -1917,22 +1860,22 @@
       ]
     },
     {
-      "name": "על ראש הברוש (מסיבה בגינה)",
+      "name": "כראמל 3 - הרפתקה בטירת דה ...",
       "kind": "show",
       "location": [
-        "2026-11-21 in Tel Aviv"
+        "2026-12-05 in Tel Aviv"
       ],
       "performances": [
         {
-          "date": "2026-11-21",
+          "date": "2026-12-05",
           "time": "10:00",
-          "startsAt": "2026-11-21T08:00:00Z",
+          "startsAt": "2026-12-05T08:00:00Z",
           "city": "Tel Aviv",
           "language": "und",
-          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1265/%D7%A2%D7%9C_%D7%A8%D7%90%D7%A9_%D7%94%D7%91%D7%A8%D7%95%D7%A9_%28%D7%9E%D7%A1%D7%99%D7%91%D7%94_%D7%91%D7%92%D7%99%D7%A0%D7%94%29",
+          "ticketUrl": "https://www.porat-theater.co.il/%D7%9C%D7%95%D7%97_%D7%94%D7%A6%D7%92%D7%95%D7%AA/1917/%D7%9B%D7%A8%D7%90%D7%9E%D7%9C_3_-_%D7%94%D7%A8%D7%A4%D7%AA%D7%A7%D7%94_%D7%91%D7%98%D7%99%D7%A8%D7%AA_%D7%93%D7%94_%D7%95%D7%99%D7%9C",
           "sourceUrl": "https://www.porat-theater.co.il/",
-          "originalTitle": "על ראש הברוש (מסיבה בגינה)",
-          "id": "orna-porat-e876cfc5b1bd3453a8cd"
+          "originalTitle": "כראמל 3 - הרפתקה בטירת דה ...",
+          "id": "orna-porat-c59b2a59fcf0aa90c74b"
         }
       ]
     },
@@ -2041,9 +1984,9 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 11,
+        "linkCount": 10,
         "warnings": [
-          "Deferred 4 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 3 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -2114,10 +2057,10 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 5,
         "warnings": [
           "Published local times use Asia/Jerusalem. Missing times remain date-only; unrecognized venue cities remain detail links.",
-          "Excluded 4 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2139,7 +2082,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 58,
+        "linkCount": 53,
         "warnings": [
           "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
         ]
@@ -2151,7 +2094,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 48,
+        "linkCount": 45,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
@@ -2163,7 +2106,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 133,
+        "linkCount": 138,
         "warnings": [
           "Tour cards require production details to associate occurrences with cities."
         ]
@@ -2187,7 +2130,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 4,
+        "linkCount": 3,
         "warnings": [
           "Schedule rows name venues, not cities. Russian subtitles do not establish Russian dialogue; repertoire details are returned, not checkout links."
         ]
@@ -2216,7 +2159,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 10,
+        "linkCount": 11,
         "warnings": [
           "Cards provide a venue name but no city; detail pages are needed. Hebrew interface text is not a performance-language label."
         ]
@@ -2242,7 +2185,8 @@
         "excludedLanguageCount": 0,
         "linkCount": 8,
         "warnings": [
-          "Performance language is not inferred from the Hebrew website. Published local times use Asia/Jerusalem."
+          "Performance language is not inferred from the Hebrew website. Published local times use Asia/Jerusalem.",
+          "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -2264,8 +2208,15 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
+        "status": "parsed",
+        "parserId": "rusevents",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
+        ]
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -2322,15 +2273,6 @@
         "eventCount": 0,
         "excludedLanguageCount": 0,
         "linkCount": 7
-      },
-      {
-        "url": "https://israelshowru.kassa.co.il/announce/86668",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/86706",
@@ -2417,9 +2359,9 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 3,
+        "linkCount": 4,
         "warnings": [
-          "No complete Russian or unknown-language occurrences extracted; returned available detail links."
+          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -2429,9 +2371,9 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 9,
+        "linkCount": 7,
         "warnings": [
-          "Deferred 4 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -2749,18 +2691,9 @@
         "eventCount": 20,
         "excludedLanguageCount": 0,
         "linkCount": 0
-      },
-      {
-        "url": "https://ru.kupatbravo.co.il/announce/86668",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 306,
+    "unsupportedPageCount": 305,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
@@ -2776,11 +2709,6 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
-      },
-      {
-        "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
