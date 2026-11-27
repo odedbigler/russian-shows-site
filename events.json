@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:31:51.168Z",
+  "generatedAt": "2026-11-27T13:58:35.282Z",
   "timeZone": "Asia/Jerusalem",
   "regionFilter": {
     "south": "Ashdod",
@@ -18,7 +18,7 @@
     "unknownAge": "included"
   },
   "showCount": 30,
-  "performanceCount": 98,
+  "performanceCount": 97,
   "shows": [
     {
       "name": "В гостях у Мороза",
@@ -1172,23 +1172,10 @@
       "name": "Солнечная История — Театр Давай",
       "kind": "show",
       "location": [
-        "2026-11-25 in Ашдод",
         "2027-01-23 in Тель-Авив-Яффо",
         "2027-03-27 in Тель-Авив-Яффо"
       ],
       "performances": [
-        {
-          "date": "2026-11-25",
-          "time": "17:30",
-          "startsAt": "2026-11-25T17:30+02:00",
-          "city": "Ашдод",
-          "language": "und",
-          "ticketUrl": "https://ru.kupatbravo.co.il/announce/buy/211704",
-          "sourceUrl": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
-          "originalTitle": "Солнечная История — Театр Давай",
-          "id": "kassa-detail-e955b63eb07aae66b8e6",
-          "recommendedAge": "3+"
-        },
         {
           "date": "2027-01-23",
           "time": "11:00",
@@ -1495,7 +1482,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 1
+        "linkCount": 2
       },
       {
         "url": "https://kinorai.co.il/films/",
@@ -1525,7 +1512,7 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 3 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 4 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 3 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -1603,15 +1590,8 @@
       },
       {
         "url": "https://afishka.co.il/",
-        "status": "parsed",
-        "parserId": "afishka",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 54,
-        "warnings": [
-          "Homepage cards can represent tours; detail pages are needed to pair dates with cities."
-        ]
+        "status": "failed",
+        "error": "HTTP 522; no retry or additional redirect attempted"
       },
       {
         "url": "https://bilety.co.il/he-il",
@@ -1620,22 +1600,15 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 44,
+        "linkCount": 46,
         "warnings": [
           "Listing cards omit cities and can show date ranges; same-site legacy HTTP detail links are upgraded to HTTPS."
         ]
       },
       {
         "url": "https://anshlag.co.il/",
-        "status": "parsed",
-        "parserId": "anshlag",
-        "fromCache": false,
-        "eventCount": 0,
-        "excludedLanguageCount": 0,
-        "linkCount": 138,
-        "warnings": [
-          "Tour cards require production details to associate occurrences with cities."
-        ]
+        "status": "failed",
+        "error": "Response is not an HTML document"
       },
       {
         "url": "https://www.malenky.co.il/",
@@ -1722,7 +1695,7 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 7,
+        "linkCount": 6,
         "warnings": [
           "No complete Russian or unknown-language occurrences extracted; returned available detail links."
         ]
@@ -1734,8 +1707,15 @@
       },
       {
         "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
+        "status": "parsed",
+        "parserId": "rusevents",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 3,
+        "warnings": [
+          "This source is a category hub, not a calendar. Only relevant Haifa categories are queued."
+        ]
       },
       {
         "url": "https://ru.israelshow.co.il/theater-zero.asp",
@@ -1803,6 +1783,15 @@
         "linkCount": 0
       },
       {
+        "url": "https://kids-cinema.org.il/events/%d7%a1%d7%95%d7%93%d7%95%d7%aa-%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%93%d7%99%d7%a0%d7%95%d7%96%d7%90%d7%95%d7%a8%d7%99%d7%9d-%d7%91%d7%93%d7%99%d7%91%d7%95%d7%91-%d7%9c%d7%a2%d7%91%d7%a8%d7%99%d7%aa/",
+        "status": "parsed",
+        "parserId": "kids-cinema",
+        "fromCache": false,
+        "eventCount": 0,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://israelshowru.kassa.co.il/announce/86706",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -1823,7 +1812,7 @@
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
-          "Excluded 7 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
+          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -1878,10 +1867,10 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 6,
+        "linkCount": 5,
         "warnings": [
           "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
         ]
       },
       {
@@ -1891,9 +1880,21 @@
         "fromCache": false,
         "eventCount": 0,
         "excludedLanguageCount": 0,
-        "linkCount": 5,
+        "linkCount": 6,
         "warnings": [
-          "Deferred 1 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+          "Deferred 2 untimed Kassa listings to their detail schedules before applying the 19:00 cutoff."
+        ]
+      },
+      {
+        "url": "https://ru.kupatbravo.co.il/announce/87000",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 7,
+        "excludedLanguageCount": 0,
+        "linkCount": 0,
+        "warnings": [
+          "Excluded 6 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
         ]
       },
       {
@@ -1909,27 +1910,6 @@
         ]
       },
       {
-        "url": "https://ru.kupatbravo.co.il/announce/87000",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 7,
-        "excludedLanguageCount": 0,
-        "linkCount": 0,
-        "warnings": [
-          "Excluded 7 events outside the Ashdod-to-Netanya city list or with unrecognized cities."
-        ]
-      },
-      {
-        "url": "https://ru.kupatbravo.co.il/announce/87607",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 2,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
-      },
-      {
         "url": "https://ru.kupatbravo.co.il/announce/86706",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -1942,11 +1922,20 @@
         ]
       },
       {
+        "url": "https://ru.kupatbravo.co.il/announce/87607",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 2,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/announce/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%A2%D0%B5%D0%B0%D1%82%D1%80-%D0%94%D0%B0%D0%B2%D0%B0%D0%B9",
         "status": "parsed",
         "parserId": "kassa-detail",
         "fromCache": false,
-        "eventCount": 3,
+        "eventCount": 2,
         "excludedLanguageCount": 0,
         "linkCount": 0,
         "warnings": [
@@ -2065,7 +2054,7 @@
         "linkCount": 0,
         "warnings": [
           "Excluded 1 events outside the Ashdod-to-Netanya city list or with unrecognized cities.",
-          "Excluded 5 events starting after 19:00 in Asia/Jerusalem."
+          "Excluded 4 events starting after 19:00 in Asia/Jerusalem."
         ]
       },
       {
@@ -2168,6 +2157,15 @@
         ]
       },
       {
+        "url": "https://ru.kupatbravo.co.il/announce/87943",
+        "status": "parsed",
+        "parserId": "kassa-detail",
+        "fromCache": false,
+        "eventCount": 1,
+        "excludedLanguageCount": 0,
+        "linkCount": 0
+      },
+      {
         "url": "https://ru.kupatbravo.co.il/announce/harpatka-lashana-hachadasha",
         "status": "parsed",
         "parserId": "kassa-detail",
@@ -2178,15 +2176,6 @@
         "warnings": [
           "No complete eligible Kassa performances found; listing dates are not used as a fallback."
         ]
-      },
-      {
-        "url": "https://ru.kupatbravo.co.il/announce/87943",
-        "status": "parsed",
-        "parserId": "kassa-detail",
-        "fromCache": false,
-        "eventCount": 1,
-        "excludedLanguageCount": 0,
-        "linkCount": 0
       },
       {
         "url": "https://ru.kupatbravo.co.il/announce/87948",
@@ -2216,12 +2205,22 @@
         "linkCount": 0
       }
     ],
-    "unsupportedPageCount": 300,
+    "unsupportedPageCount": 112,
     "failedPages": [
       {
         "url": "https://kinorai.co.il/films/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
+      },
+      {
+        "url": "https://afishka.co.il/",
+        "status": "failed",
+        "error": "HTTP 522; no retry or additional redirect attempted"
+      },
+      {
+        "url": "https://anshlag.co.il/",
+        "status": "failed",
+        "error": "Response is not an HTML document"
       },
       {
         "url": "https://afishamira.com/city/israel/",
@@ -2232,11 +2231,6 @@
         "url": "https://www.haifa.events/ru/",
         "status": "failed",
         "error": "HTTP 403; no retry or additional redirect attempted"
-      },
-      {
-        "url": "https://rusevents.com/israel/haifa/events/",
-        "status": "failed",
-        "error": "fetch failed"
       },
       {
         "url": "https://israelshowru.kassa.co.il/announce/78234",
